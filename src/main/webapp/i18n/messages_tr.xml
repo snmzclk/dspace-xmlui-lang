@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <!--
 
     The contents of this file are subject to the license and copyright
@@ -39,7 +39,8 @@
 		<message key="xmlui.general.queue">Kuyruk</message>
 
         <!-- Keys which are used by exception2dri.xsl on error pages -->
-		<message key="xmlui.error.contact_msg">Bu hatayı rapor etmek için lütfen sistem yöneticisi ile iletişime geçiniz. Mümkünse, hata oluştuğu esnada yapmakta olduğunuz işlem hakkında detaylı bilgi veriniz.</message>
+		<message key="xmlui.error.contact_msg">Bu hatayı rapor etmek için lütfen sistem yöneticisi ile iletişime geçiniz. Mümkünse, hata 
+oluştuğu esnada yapmakta olduğunuz işlem hakkında detaylı bilgi veriniz.</message>
 		<message key="xmlui.error.contact">Sistem yöneticisi ile iletişime geçiniz</message>
 		<message key="xmlui.error.show_stack">Hata kısmını göster</message>
 
@@ -58,14 +59,16 @@
 	   The "utils" non-aspect
        -->
     <message key="xmlui.utils.AuthenticationUtil.onlyAdmins">Sadece site yöneticileri başka bir kullanıcı olarak giriş yapabilir.</message>
-    <message key="xmlui.utils.AuthenticationUtil.onlyAuthenticatedAdmins">Yöneticiler yalnızca kimliği doğrulanmış kullanıcıların başka bir kullanıcı olarak oturum açmasına izin verebilir.</message>
+    <message key="xmlui.utils.AuthenticationUtil.onlyAuthenticatedAdmins">Yöneticiler yalnızca kimliği doğrulanmış kullanıcıların başka bir 
+kullanıcı olarak oturum açmasına izin verebilir.</message>
     <message key="xmlui.utils.AuthenticationUtil.notAnotherAdmin">Başka bir yönetici olarak giriş yapmalısınız.</message>
 
 
 	<!--
 		This section is for feed syndications (RSS, atom, etc)
 	-->
-	<message key="xmlui.feed.general_description">DSpace dijital arşiv sistemi toplar, depolar, dizinler, korur ve dijital araştırma materyallerini dağıtmaya aracılık eder.</message>
+	<message key="xmlui.feed.general_description">DSpace dijital arşiv sistemi toplar, depolar, dizinler, korur ve dijital araştırma 
+materyallerini dağıtmaya aracılık eder.</message>
     <message key="xmlui.feed.header">RSS Beslemeleri</message>
 	<message key="xmlui.feed.logo_title">Bağlantı Resmi</message>
 	<message key="xmlui.feed.untitled">Başlıksız</message>
@@ -221,7 +224,8 @@
 	<message key="xmlui.ArtifactBrowser.FeedbackForm.title">Geri Bildirim Gönder</message>
 	<message key="xmlui.ArtifactBrowser.FeedbackForm.trail">Geri Bildirim Gönder</message>
 	<message key="xmlui.ArtifactBrowser.FeedbackForm.head">Geri Bildirim Gönder</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.para1">DSpace sistemi hakkında görüşlerinizi bizimle paylaştığınız için teşekkür ederiz. Yorumunuz sistemin gelişmesi bakımından çok önemlidir!</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.para1">DSpace sistemi hakkında görüşlerinizi bizimle paylaştığınız için teşekkür ederiz. 
+Yorumunuz sistemin gelişmesi bakımından çok önemlidir!</message>
 	<message key="xmlui.ArtifactBrowser.FeedbackForm.email">E-postanız</message>
 	<message key="xmlui.ArtifactBrowser.FeedbackForm.email_help">Bu adres geri bildirim takibi için kullanılır.</message>
 	<message key="xmlui.ArtifactBrowser.FeedbackForm.comments">Yorumlar</message>
@@ -275,10 +279,14 @@
 	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_item">Bu öğeye erişim kısıtlıdır</message>
 	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_bitstream">Bu veri akışına erişim kısıtlıdır</message>
 	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_resource">Kısıtlı kaynağa erişmek için gerekli yetkiye sahip değilsiniz.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_community"><b>{0}</b> adlı kısıtlı bölüme erişmek için gerekli yetkiye sahip değilsiniz.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_collection"><b>{0}</b> adlı kısıtlı koleksiyona erişmek için gerekli yetkiye sahip değilsiniz.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_item"><b>{0}</b> adlı kısıtlı öğeye erişmek için gerekli yetkiye sahip değilsiniz.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_bitstream"><b>{0}</b> adlı kısıtlı veri akışına erişmek için gerekli yetkiye sahip değilsiniz.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_community"><b>{0}</b> adlı kısıtlı bölüme erişmek için gerekli yetkiye sahip 
+değilsiniz.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_collection"><b>{0}</b> adlı kısıtlı koleksiyona erişmek için gerekli yetkiye sahip 
+değilsiniz.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_item"><b>{0}</b> adlı kısıtlı öğeye erişmek için gerekli yetkiye sahip 
+değilsiniz.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_bitstream"><b>{0}</b> adlı kısıtlı veri akışına erişmek için gerekli yetkiye sahip 
+değilsiniz.</message>
 	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_collection">koleksiyon</message>
 	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_community">bölüm</message>
 	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_bitstream">veri dosyası</message>
@@ -288,27 +296,34 @@
         <message key="xmlui.ArtifactBrowser.RestrictedItem.login">Devam edebilmek için giriş yapın</message>
 
         <message key="xmlui.ArtifactBrowser.RestrictedItem.head_item_withdrawn">Bu öğe geri çekilmiş</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_withdrawn">Seçmiş olduğunuz öğe geri çekilmiştir ve uzun süredir erişilebilir değil.</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted_auth">Seçilmiş öğeye erişim kısıtlıdır ve görüntüleme için yetki gerekiyor. Öğeye erişebilmek için lütfen giriş yapınız.</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted">Kullanıcı hesabınız bu öğeyi görüntülemek için yeterli yetkiye sahip değil. Eğer herhangi bir sorunuz var ise sistem yöneticisi ile temasa geçiniz.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_withdrawn">Seçmiş olduğunuz öğe geri çekilmiştir ve uzun süredir erişilebilir 
+değil.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted_auth">Seçilmiş öğeye erişim kısıtlıdır ve görüntüleme için yetki 
+gerekiyor. Öğeye erişebilmek için lütfen giriş yapınız.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted">Kullanıcı hesabınız bu öğeyi görüntülemek için yeterli yetkiye 
+sahip değil. Eğer herhangi bir sorunuz var ise sistem yöneticisi ile temasa geçiniz.</message>
         
 	<!-- Authentication messages used at the top of the login page:  -->
 	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_header">Öğeye erişim kısıtlıdır</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_message">Görüntülemeye çalıştığınız öğeye erişim kısıtlanmıştır ve görüntüleme için yetki gerektiriyor. Öğeye erişmek için lütfen giriş yapınız.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_message">Görüntülemeye çalıştığınız öğeye erişim kısıtlanmıştır ve görüntüleme için 
+yetki gerektiriyor. Öğeye erişmek için lütfen giriş yapınız.</message>
 
     <message key="xmlui.ArtifactBrowser.StatisticsViewer.choose_month">Aylık Raporlar</message>
     <message key="xmlui.ArtifactBrowser.StatisticsViewer.report.title">İstatiksel Özet</message>
 
     <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.title">Erişilebilir rapor mevcut değil</message>
-    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.text">Bu hizmet için erişilebilir rapor mevcut değildir. Lütfen daha sonra yeniden kontrol ediniz.</message>
+    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.text">Bu hizmet için erişilebilir rapor mevcut değildir. Lütfen daha sonra 
+yeniden kontrol ediniz.</message>
 
     <!-- Authentication messages used for bitstream authentication -->
 	<message key="xmlui.BitstreamReader.auth_header">Dosyaya erişim kısıtlıdır</message>
-	<message key="xmlui.BitstreamReader.auth_message">Erişmeye çalıştığınız dosya kısıtlıdır ve erişim için yetki gerekiyor. Dosyaya erişebilmek için lütfen giriş yapınız.</message>
+	<message key="xmlui.BitstreamReader.auth_message">Erişmeye çalıştığınız dosya kısıtlıdır ve erişim için yetki gerekiyor. Dosyaya erişebilmek 
+için lütfen giriş yapınız.</message>
 
 	<!-- Export Archive download messages -->
 	<message key="xmlui.ItemExportDownloadReader.auth_header">Bu arşiv ihraç için kısıtlanmıştır.</message>
-	<message key="xmlui.ItemExportDownloadReader.auth_message">İhraç etmeye çalıştığınız arşiv kısıtlanmıştır ve ihraç için yetki gerekiyor. Arşiv ihracı için lütfen giriş yapınız.</message>
+	<message key="xmlui.ItemExportDownloadReader.auth_message">İhraç etmeye çalıştığınız arşiv kısıtlanmıştır ve ihraç için yetki gerekiyor. 
+Arşiv ihracı için lütfen giriş yapınız.</message>
 
 	
 	<!-- REQUEST COPY -->
@@ -318,7 +333,8 @@
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.head">Belgenin bir kopyasını isteyin</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestForm.login_para">Sistem kullanıcıları, oturum açarak ilgili dokümanı görebilirler.</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestForm.login">Oturum aç</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.para1">Sorumlu personelden belgenin bir kopyasını istemek için aşağıdaki bilgileri girin.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.para1">Sorumlu personelden belgenin bir kopyasını istemek için aşağıdaki bilgileri 
+girin.</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">e-posta adresiniz</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail_help">Bu e-posta adresi belgeyi göndermek için kullanılır.</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail.error">Adres gerekli</message>
@@ -341,8 +357,10 @@
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.title">Doküman kopya isteği</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.trail">Doküman kopya isteği</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.head">Doküman kopya isteği</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para1">EĞER DOKÜMANIN YAZARIYSANIZ (VEYA YAZARSANIZ) kullanıcının isteğine cevap vermek için "{0}" butonuna basınız.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para2">Düzenleyebileceğiniz bu kurumsal arşiv uygun bir modele cevap olarak önerilir.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para1">EĞER DOKÜMANIN YAZARIYSANIZ (VEYA YAZARSANIZ) kullanıcının 
+isteğine cevap vermek için "{0}" butonuna basınız.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para2">Düzenleyebileceğiniz bu kurumsal arşiv uygun bir modele cevap 
+olarak önerilir.</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactRequester">İstek sahibine ön cevap</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactAuthor"> Yazardan izin isteği</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.send">Kopya gönder</message>
@@ -362,7 +380,8 @@
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.title">Doküman kopya isteği</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.trail">Doküman kopya isteği</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.head">Doküman kopya isteği</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.para1">Bu metin başvuru sahibine gönderilecek (doküman ile birlikte).</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.para1">Bu metin başvuru sahibine gönderilecek (doküman ile 
+birlikte).</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.message">Mesaj</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.subject">Konu</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.mail">Gönder</message>
@@ -372,7 +391,9 @@
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.title">Yetki değişim isteği</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.trail">Yetki değişim isteği</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.head">Yetki değişim isteği</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.para1">Eğer sınırlandırmak için bir sebep yoksa, dokümandaki erişim sınırlandırmalarını (taleplere cevap vermekten kaçınmak amacıyla) tekrar gözden geçirmek için bu fırsatı kullanabilirsiniz. Bunu yapmak için, isminizi ve e-posta adresinizi (yetkilendirmek için) girin, "Açık Erişim Yap" butonuna tıklayın.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.para1">Eğer sınırlandırmak için bir sebep yoksa, dokümandaki erişim 
+sınırlandırmalarını (taleplere cevap vermekten kaçınmak amacıyla) tekrar gözden geçirmek için bu fırsatı kullanabilirsiniz. Bunu yapmak için, 
+isminizi ve e-posta adresinizi (yetkilendirmek için) girin, "Açık Erişim Yap" butonuna tıklayın.</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name">İsim</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email">e-posta</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name.error">İsim gerekli</message>
@@ -435,7 +456,8 @@
 	<!-- org.dspace.app.xmlui.eperson.CannotRegister.java -->
 	<message key="xmlui.EPerson.CannotRegister.title">Kayıt alınmıyor</message>
 	<message key="xmlui.EPerson.CannotRegister.head">Kayıt alınmıyor</message>
-	<message key="xmlui.EPerson.CannotRegister.para1">Bu DSpace dijital arşivi yapılandırması bu bağlamda kayıt kabul etmiyor. Lütfen soru veya öneriniz için <a href="../contact">site yöneticisi</a>  ile temasa geçiniz.</message>
+	<message key="xmlui.EPerson.CannotRegister.para1">Bu DSpace dijital arşiv yapılandırması kurum alan adı (@myuni.edu.tr) dışındaki e-postalar 
+ile kayıt kabul etmiyor. Lütfen soru veya öneriniz için <a href="../contact">site yöneticisi</a>  ile temasa geçiniz.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.EditProfile.java -->
 	<message key="xmlui.EPerson.EditProfile.title_update">Profil Güncelle</message>
@@ -449,11 +471,15 @@
 	<message key="xmlui.EPerson.EditProfile.telephone">Telefon</message>
         <message key="xmlui.EPerson.EditProfile.Language">Dil</message>
 	<message key="xmlui.EPerson.EditProfile.subscriptions">Üyelik</message>
-	<message key="xmlui.EPerson.EditProfile.subscriptions_help">Yeni öğeler eklendikçe günlük uyarı e-postaları almak için koleksiyonlara üye olmalısınız. İstediğiniz koleksiyon veya koleksiyonlara üye olabilirsiniz. Günlük uyarı e-postası almanın başka bir yolu ise tüm koleksiyonlar için mevcut olan RSS beslemelerini kullanmaktır.</message>
+	<message key="xmlui.EPerson.EditProfile.subscriptions_help">Yeni öğeler eklendikçe günlük uyarı e-postaları almak için koleksiyonlara üye 
+olmalısınız. İstediğiniz koleksiyon veya koleksiyonlara üye olabilirsiniz. Günlük uyarı e-postası almanın başka bir yolu ise tüm koleksiyonlar için 
+mevcut olan RSS beslemelerini kullanmaktır.</message>
 	<message key="xmlui.EPerson.EditProfile.email_subscriptions">E-Posta Üyeliği</message>
 	<message key="xmlui.EPerson.EditProfile.select_collection">( Koleksiyon Seç )</message>
-	<message key="xmlui.EPerson.EditProfile.update_password_instructions">İsteğe bağlı olarak aşağıdaki kutuya yeni bir şifre girebilirsiniz ve ikinci kutuda aynı şifreyi tekrar yazarak onaylayabilirsiniz. Şifre en az altı karakter uzunluğunda olmalıdır.</message>
-	<message key="xmlui.EPerson.EditProfile.create_password_instructions">Lütfen aşağıdaki kutuya bir şifre giriniz ve ikinci kutuya aynı şifreyi yazarak onaylayınız. Şifre en az altı karakter uzunluğunda olmalıdır.</message>
+	<message key="xmlui.EPerson.EditProfile.update_password_instructions">İsteğe bağlı olarak aşağıdaki kutuya yeni bir şifre girebilirsiniz ve 
+ikinci kutuda aynı şifreyi tekrar yazarak onaylayabilirsiniz. Şifre en az altı karakter uzunluğunda olmalıdır.</message>
+	<message key="xmlui.EPerson.EditProfile.create_password_instructions">Lütfen aşağıdaki kutuya bir şifre giriniz ve ikinci kutuya aynı 
+şifreyi yazarak onaylayınız. Şifre en az altı karakter uzunluğunda olmalıdır.</message>
 	<message key="xmlui.EPerson.EditProfile.password">Şifre</message>
 	<message key="xmlui.EPerson.EditProfile.confirm_password">Onay için tekrar yazınız</message>
 	<message key="xmlui.EPerson.EditProfile.submit_update">Kaydı Tamamla</message>
@@ -482,8 +508,10 @@
 	<message key="xmlui.EPerson.InvalidToken.title">Geçersiz işaret</message>
 	<message key="xmlui.EPerson.InvalidToken.trail">Geçersiz işaret</message>
 	<message key="xmlui.EPerson.InvalidToken.head">Geçersiz işaret</message>
-	<message key="xmlui.EPerson.InvalidToken.para1">Vermiş olduğunuz URL adresi geçersizdir. URL adresi e-posta istemciniz tarafında iki satıra bölünmüş olabilir. Şu şekilde:</message>
-	<message key="xmlui.EPerson.InvalidToken.para2">Eğer öyleyse, kopyalayın ve doğrudan tarayıcınızın adres satırına tüm URL'yi yapıştırın ve sonra bağlantıya tıklayın. Adres çubuğunun içeriği şu şekilde olmalıdır:</message>
+	<message key="xmlui.EPerson.InvalidToken.para1">Vermiş olduğunuz URL adresi geçersizdir. URL adresi e-posta istemciniz tarafında iki satıra 
+bölünmüş olabilir. Şu şekilde:</message>
+	<message key="xmlui.EPerson.InvalidToken.para2">Eğer öyleyse, kopyalayın ve doğrudan tarayıcınızın adres satırına tüm URL'yi yapıştırın ve 
+sonra bağlantıya tıklayın. Adres çubuğunun içeriği şu şekilde olmalıdır:</message>
 
 	<!-- org.dspace.app.xmlui.eperson.Navigation.java -->
 	<message key="xmlui.EPerson.Navigation.my_account">Hesabım</message>
@@ -496,20 +524,21 @@
 	<message key="xmlui.EPerson.PasswordLogin.title">Giriş</message>
 	<message key="xmlui.EPerson.PasswordLogin.trail">Giriş</message>
 	<message key="xmlui.EPerson.PasswordLogin.head1">DSpace'e Giriş</message>
-	<message key="xmlui.EPerson.PasswordLogin.email_address">E-Posta Adresi</message>
+	<message key="xmlui.EPerson.PasswordLogin.email_address">E-Posta Adresi (Ör: sonmez.celik@ihu.edu.tr)</message>
 	<message key="xmlui.EPerson.PasswordLogin.error_bad_login">Girilen e-posta adresi ve/veya şifre geçerli değil.</message>
 	<message key="xmlui.EPerson.PasswordLogin.password">Şifre</message>
 	<message key="xmlui.EPerson.PasswordLogin.forgot_link">Şifrenizi mi unuttunuz?</message>
 	<message key="xmlui.EPerson.PasswordLogin.submit">Giriş</message>
 	<message key="xmlui.EPerson.PasswordLogin.head2">Yeni kullanıcı kaydı</message>
-	<message key="xmlui.EPerson.PasswordLogin.para1">E-posta güncellemeleri için koleksiyonlara abone olun ve DSpace'e yeni öğe göndermek için bir hesap oluşturun.</message>
+	<message key="xmlui.EPerson.PasswordLogin.para1">E-posta güncellemeleri için koleksiyonlara abone olun ve DSpace'e yeni öğe göndermek için 
+bir hesap oluşturun.</message>
 	<message key="xmlui.EPerson.PasswordLogin.register_link">Kayıt için buraya tıklayın.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.LDAPLogin.java -->
 	<message key="xmlui.EPerson.LDAPLogin.title">Giriş</message>
 	<message key="xmlui.EPerson.LDAPLogin.trail">Giriş</message>
 	<message key="xmlui.EPerson.LDAPLogin.head1">DSpace'e Giriş</message>
-	<message key="xmlui.EPerson.LDAPLogin.username">Kullanıcı Adı (Ör: sonmez.celik)</message>
+	<message key="xmlui.EPerson.LDAPLogin.username">E-Posta Adresi (Ör: sonmez.celik@ihu.edu.tr)</message>
 	<message key="xmlui.EPerson.LDAPLogin.error_bad_login">Girilen e-posta adresi ve/veya şifre geçerli değil.</message>
 	<message key="xmlui.EPerson.LDAPLogin.password">Şifre</message>
 	<message key="xmlui.EPerson.LDAPLogin.submit">Giriş</message>
@@ -536,7 +565,8 @@
 	<message key="xmlui.eperson.noAuthMethod.head">Kimlik Doğrulama Yöntemi Bulunamadı.</message>
 	<message key="xmlui.eperson.noAuthMethod.p1">Kimlik doğrulama yöntemi bulunamadı. Lütfen site yöneticisi ile temasa geçiniz.</message>
 	<message key="xmlui.eperson.shibbLoginFailure.head">Shibboleth Girişi Başarısız</message>
-	<message key="xmlui.eperson.shibbLoginFailure.p1">Shibboleth kimlik doğrulama şu anda mevcut değil. Lütfen site yöneticisi ile temasa geçiniz.</message>
+	<message key="xmlui.eperson.shibbLoginFailure.p1">Shibboleth kimlik doğrulama şu anda mevcut değil. Lütfen site yöneticisi ile temasa 
+geçiniz.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.ProfileUpdated.java -->
 	<message key="xmlui.EPerson.ProfileUpdated.title">Profil Güncellendi</message>
@@ -547,12 +577,14 @@
 	<!-- org.dspace.app.xmlui.eperson.RegistrationFinished.java -->
 	<message key="xmlui.EPerson.RegistrationFinished.title">Kayıt tamamlandı</message>
 	<message key="xmlui.EPerson.RegistrationFinished.head">Kayıt Tamamlandı</message>
-	<message key="xmlui.EPerson.RegistrationFinished.para1">DSpace sistemini kullanmak için şu halde kayıtlısınız. Yeni öğeler hakkında e-posta güncellemeleri almak için koleksiyonlara üye olabilirsiniz.</message>
+	<message key="xmlui.EPerson.RegistrationFinished.para1">DSpace sistemini kullanmak için şu halde kayıtlısınız. Yeni öğeler hakkında e-posta 
+güncellemeleri almak için koleksiyonlara üye olabilirsiniz.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.ResetPassword.java -->
 	<message key="xmlui.EPerson.ResetPassword.title">Şifre sıfırla</message>
 	<message key="xmlui.EPerson.ResetPassword.head">Şifre sıfırla</message>
-	<message key="xmlui.EPerson.ResetPassword.para1">Lütfen aşağıdaki kutuya yeni bir şifre giriniz ve onaylamak için ikinci kutuya yeniden yazınız. Şifre en az altı karakter uzunluğunda olmalıdır.</message>
+	<message key="xmlui.EPerson.ResetPassword.para1">Lütfen aşağıdaki kutuya yeni bir şifre giriniz ve onaylamak için ikinci kutuya yeniden 
+yazınız. Şifre en az altı karakter uzunluğunda olmalıdır.</message>
 	<message key="xmlui.EPerson.ResetPassword.email_address">E-Posta Adresi</message>
 	<message key="xmlui.EPerson.ResetPassword.new_password">Yeni Şifre</message>
 	<message key="xmlui.EPerson.ResetPassword.confirm_password">Onay İçin Yeniden Yazınız</message>
@@ -563,7 +595,8 @@
 	<!-- org.dspace.app.xmlui.eperson.StartForgotPassword.java -->
 	<message key="xmlui.EPerson.StartForgotPassword.title">Şifremi Unuttum</message>
 	<message key="xmlui.EPerson.StartForgotPassword.head">Şifremi Unuttum</message>
-	<message key="xmlui.EPerson.StartForgotPassword.para1">DSpace'e kayıt olurken vermiş olduğunuz e-posta adresini giriniz. Bu e-posta adresine  ayrıntılı talimatlar içeren bilgiler gönderilecektir.</message>
+	<message key="xmlui.EPerson.StartForgotPassword.para1">DSpace'e kayıt olurken vermiş olduğunuz e-posta adresini giriniz. Bu e-posta adresine  
+ayrıntılı talimatlar içeren bilgiler gönderilecektir.</message>
 	<message key="xmlui.EPerson.StartForgotPassword.email_address">E-Posta Adresi</message>
 	<message key="xmlui.EPerson.StartForgotPassword.email_address_help">Kayıt olurken kullandığınız adresi giriniz.</message>
 	<message key="xmlui.EPerson.StartForgotPassword.error_not_found">E-posta adresi bulunamadı.</message>
@@ -572,11 +605,13 @@
 	<!-- org.dspace.app.xmlui.eperson.StartRegistration.java -->
 	<message key="xmlui.EPerson.StartRegistration.title">Yeni kullanıcı kaydı</message>
 	<message key="xmlui.EPerson.StartRegistration.head1">E-Posta hali hazırda kullanılıyor</message>
-	<message key="xmlui.EPerson.StartRegistration.para1">Vermiş olduğunuz e-posta adresi başka bir hesap tarafından kullanılıyor. Eğer bu hesap için şifre sıfırlama yapmak istiyorsanız, aşağıdaki şifre sıfırlama butonuna basınız.</message>
+	<message key="xmlui.EPerson.StartRegistration.para1">Vermiş olduğunuz e-posta adresi başka bir hesap tarafından kullanılıyor. Eğer bu hesap 
+için şifre sıfırlama yapmak istiyorsanız, aşağıdaki şifre sıfırlama butonuna basınız.</message>
 	<message key="xmlui.EPerson.StartRegistration.reset_password_for">Şifre sıfırlama için</message>
 	<message key="xmlui.EPerson.StartRegistration.submit_reset">Şifre Sıfırlama</message>
 	<message key="xmlui.EPerson.StartRegistration.head2">Yeni kullanıcı kaydı</message>
-	<message key="xmlui.EPerson.StartRegistration.para2">E-posta güncellemeleri için koleksiyonlara abone olun ve DSpace'e yeni öğe göndermek için bir hesap oluşturun.</message>
+	<message key="xmlui.EPerson.StartRegistration.para2">E-posta güncellemeleri için koleksiyonlara abone olun ve DSpace'e yeni öğe göndermek 
+için bir hesap oluşturun.</message>
 	<message key="xmlui.EPerson.StartRegistration.email_address">E-Posta Adresi</message>
 	<message key="xmlui.EPerson.StartRegistration.email_address_help">Bu adres doğrulanacak ve kullanıcı adı olarak tanımlanacaktır.</message>
 	<message key="xmlui.EPerson.StartRegistration.error_bad_email">Bu adrese e-posta gönderilemez.</message>
@@ -637,7 +672,8 @@
 	<message key="xmlui.Submission.Submissions.email">e-posta: </message>
 	<!-- Same transformer, workflow section -->
 	<message key="xmlui.Submission.Submissions.workflow_head1">İş akış görevleri</message>
-	<message key="xmlui.Submission.Submissions.workflow_info1">Bu görevler dijital arşive eklenmek üzere onay bekleyen öğelerdir. İki görev kuyruğu vardır. Birincisi görevleri kabul etmek üzere seçtiğiniz, ikincisi ise henüz kimse tarafından alınmamış görevler kuyruğudur.</message>
+	<message key="xmlui.Submission.Submissions.workflow_info1">Bu görevler dijital arşive eklenmek üzere onay bekleyen öğelerdir. İki görev 
+kuyruğu vardır. Birincisi görevleri kabul etmek üzere seçtiğiniz, ikincisi ise henüz kimse tarafından alınmamış görevler kuyruğudur.</message>
 	<message key="xmlui.Submission.Submissions.workflow_head2">Görevleriniz</message>
 	<message key="xmlui.Submission.Submissions.workflow_column1"></message>
 	<message key="xmlui.Submission.Submissions.workflow_column2">Görev</message>
@@ -653,7 +689,8 @@
 	<message key="xmlui.Submission.Submissions.submit_head1">Gönderiler</message>
 	<message key="xmlui.Submission.Submissions.submit_info1a">Yapabilecekleriniz: </message>
 	<message key="xmlui.Submission.Submissions.submit_info1b">Yeni bir gönderi başlat.</message>
-	<message key="xmlui.Submission.Submissions.submit_info1c">Başvuru süreci öğe içeriğini tanımlar ve yüklenen dosya/dosyaları karşılaştırır. Her bölüm veya koleksiyon kendi gönderi politikasını belirleyebilir.</message>
+	<message key="xmlui.Submission.Submissions.submit_info1c">Başvuru süreci öğe içeriğini tanımlar ve yüklenen dosya/dosyaları karşılaştırır. 
+Her bölüm veya koleksiyon kendi gönderi politikasını belirleyebilir.</message>
 	<message key="xmlui.Submission.Submissions.submit_head2">Tamamlanmamış gönderi</message>
 	<message key="xmlui.Submission.Submissions.submit_info2a">Bunlar tamamlanmamış gönderileridir. Ayrıca isterseniz </message>
 	<message key="xmlui.Submission.Submissions.submit_info2b">başka bir gönderi başlatabilirsiniz</message>
@@ -668,7 +705,8 @@
 	<message key="xmlui.Submission.Submissions.submit_submit_remove">Seçilmiş gönderileri sil</message>
 	<!-- Same transformer, inprogress section -->
 	<message key="xmlui.Submission.Submissions.progress_head1">Gönderiler inceleniyor</message>
-	<message key="xmlui.Submission.Submissions.progress_info1">Bunlar tamamlanmış gönderilerinizdir ve şu halde koleksiyon yöneticileri tarafından incelenmektedir.</message>
+	<message key="xmlui.Submission.Submissions.progress_info1">Bunlar tamamlanmış gönderilerinizdir ve şu halde koleksiyon yöneticileri 
+tarafından incelenmektedir.</message>
 	<message key="xmlui.Submission.Submissions.progress_column1">Başlık</message>
 	<message key="xmlui.Submission.Submissions.progress_column2">Koleksiyon</message>
 	<message key="xmlui.Submission.Submissions.progress_column3">Durum</message>
@@ -684,11 +722,13 @@
 	<message key="xmlui.Submission.Submissions.status_unknown">Bilinmeyen durum</message>
         <!-- Same transformer, completed submissions section -->
         <message key="xmlui.Submission.Submissions.completed.head">Arşivlenmiş Gönderiler</message>
-        <message key="xmlui.Submission.Submissions.completed.info">Bunlar tamamlanmış gönderilerinizdir ve DSpace içeriğine kabul edilmiştir.</message>
+        <message key="xmlui.Submission.Submissions.completed.info">Bunlar tamamlanmış gönderilerinizdir ve DSpace içeriğine kabul 
+edilmiştir.</message>
         <message key="xmlui.Submission.Submissions.completed.column1">Kabul tarihi</message>
         <message key="xmlui.Submission.Submissions.completed.column2">Başlık</message>
         <message key="xmlui.Submission.Submissions.completed.column3">Koleksiyon</message>
-        <message key="xmlui.Submission.Submissions.completed.limit">Yukarıda arşivlenmiş gönderilerinizden yalnızca 50 tanesini listelenmiştir. </message>
+        <message key="xmlui.Submission.Submissions.completed.limit">Yukarıda arşivlenmiş gönderilerinizden yalnızca 50 tanesini listelenmiştir. 
+</message>
         <message key="xmlui.Submission.Submissions.completed.displayall">Arşivlenmiş gönderilerimin tümünü görüntüle.</message>
 
 	<!-- submission progress bar messages -->
@@ -713,7 +753,8 @@
 
 	<!-- org.dspace.app.xmlui.Submission.submit.SaveOrRemoveStep -->
 	<message key="xmlui.Submission.submit.SaveOrRemoveStep.head">Gönderinizi kayıt veya iptal edin?</message>
-	<message key="xmlui.Submission.submit.SaveOrRemoveStep.info1">Gönderiyi silmek mi istiyorsunuz yoksa daha sonra üzerinde çalışmak mı istiyorsunuz? Eğer kazara çık butonuna tıklarsanız başvuru sürecine dönebilirsiniz.</message>
+	<message key="xmlui.Submission.submit.SaveOrRemoveStep.info1">Gönderiyi silmek mi istiyorsunuz yoksa daha sonra üzerinde çalışmak mı 
+istiyorsunuz? Eğer kazara çık butonuna tıklarsanız başvuru sürecine dönebilirsiniz.</message>
 	<message key="xmlui.Submission.submit.SaveOrRemoveStep.submit_back">Pardon, gönderiyi sürdür</message>
 	<message key="xmlui.Submission.submit.SaveOrRemoveStep.submit_save">Kaydet, Üzerinde Sonra Çalışacağım</message>
 	<message key="xmlui.Submission.submit.SaveOrRemoveStep.submit_remove">Gönderiyi Kaldır</message>
@@ -727,11 +768,14 @@
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.open_set"> (</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.close_set">)</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles">Çoklu başlıklar</message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles_help">Öğenin birden çok başlığı var. <i>(Ör. Türkçe/İngilizce)</i></message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles_note">Eğer yukarıdaki kutu çek edilmez ise aşağıdaki başlık(lar) öğeden silinecektir:</message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles_help">Öğenin birden çok başlığı var. <i>(Ör. 
+Türkçe/İngilizce)</i></message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles_note">Eğer yukarıdaki kutu çek edilmez ise aşağıdaki başlık(lar) 
+öğeden silinecektir:</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.published_before">Yayımlandı</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.published_before_help">Öğe daha önce yayımlandı veya dağıtımı yapıldı</message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.published_before_note">Eğer yukarıdaki kutuyu çek etmezseniz aşağıdaki öğe(ler) silinecektir: </message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.published_before_note">Eğer yukarıdaki kutuyu çek etmezseniz aşağıdaki öğe(ler) 
+silinecektir: </message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.date_issued">Yayın Tarihi</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.citation">Atıf</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.publisher">Yayıncı</message>
@@ -751,28 +795,36 @@
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.title">Konu Kategorileri</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.label">Filtrelenmiş konular</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.button">Filtre</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.loading">Kontrollü kelime listesi yüklenirken lütfen bekleyiniz.</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.error">Kontrollü kelime listesi çağırılırken bir hata oluştu, lütfen tekrar deneyiniz.</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.loading">Kontrollü kelime listesi yüklenirken lütfen 
+bekleyiniz.</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.error">Kontrollü kelime listesi çağırılırken bir hata oluştu, lütfen 
+tekrar deneyiniz.</message>
 
 	
     <!-- org.dspace.app.xmlui.Submission.submit.AccessStep -->
     <message key="xmlui.Submission.submit.AccessStep.head">Erişim Ayarları</message>
-    <message key="xmlui.Submission.submit.AccessStep.access_settings">Seçilen kullanıcı grubu için görünür (anonim kullanıcılar için gerekli seçim yoktur)</message>
+    <message key="xmlui.Submission.submit.AccessStep.access_settings">Seçilen kullanıcı grubu için görünür (anonim kullanıcılar için gerekli seçim 
+yoktur)</message>
     <message key="xmlui.Submission.submit.AccessStep.open_access">Öğe arşive kabul edildiğinde görünür olur.</message>
     <message key="xmlui.Submission.submit.AccessStep.embargo">Özel tarihe kadar ambargolu erişim</message>
     <message key="xmlui.Submission.submit.AccessStep.embargo_visible">Görünür/Ambargolu</message>
     <message key="xmlui.Submission.submit.AccessStep.name">Ad</message>
-	<message key="xmlui.Submission.submit.AccessStep.name_help">Politika için açıklayıcı, kısa bir isim (en fazla 30 karakter). Son kullanıcılara gösterilebilir. Örneğin: "Yalnızca-Çalışanlar". İsteğe bağlıdır, ancak önerilir.</message>
+	<message key="xmlui.Submission.submit.AccessStep.name_help">Politika için açıklayıcı, kısa bir isim (en fazla 30 karakter). Son 
+kullanıcılara gösterilebilir. Örneğin: "Yalnızca-Çalışanlar". İsteğe bağlıdır, ancak önerilir.</message>
     <message key="xmlui.Submission.submit.AccessStep.description">Açıklama</message>
     <message key="xmlui.Submission.submit.AccessStep.reason">Neden</message>
-	<message key="xmlui.Submission.submit.AccessStep.reason_help">Genellikle sadece dahili kullanımda olan öğeler için ambargo nedeni. Opsiyonel.</message>
+	<message key="xmlui.Submission.submit.AccessStep.reason_help">Genellikle sadece dahili kullanımda olan öğeler için ambargo nedeni. 
+Opsiyonel.</message>
     <message key="xmlui.Submission.submit.AccessStep.submit_add_policy">Politika Onayla &amp; başka ekle</message>
     <message key="xmlui.Submission.submit.AccessStep.list_assigned_groups">Gruplar</message>
     <message key="xmlui.Submission.submit.AccessStep.error_format_date">Hatalı tarih biçimi</message>
     <message key="xmlui.Submission.submit.AccessStep.error_missing_date">Ambargo seçildiğinde tarih belirleme gereklidir</message>
-    <message key="xmlui.Submission.submit.AccessStep.error_duplicated_policy">Bu grup ve bu eylem için geçerli olan aynı politika zaten mevcut.</message>
+    <message key="xmlui.Submission.submit.AccessStep.error_duplicated_policy">Bu grup ve bu eylem için geçerli olan aynı politika zaten 
+mevcut.</message>
     <message key="xmlui.Submission.submit.AccessStep.table_policies">Politikalar Listesi</message>
-	<message key="xmlui.Submission.submit.AccessStep.policies_help">Bu bölümde listelenen politikalar, gönderi yaptığınız koleksiyon için varsayılan herhangi bir politikayı geçersiz kılar. Bir ambargo düzenlemek istiyorsunuz fakat hedef koleksiyon herhangi bir kullanıcı için erişime izin veriyor, o halde spesifik bir veriden sonra Anonim gruplar için erişime izin veren bir politika düzenlemelisiniz.</message>
+	<message key="xmlui.Submission.submit.AccessStep.policies_help">Bu bölümde listelenen politikalar, gönderi yaptığınız koleksiyon için 
+varsayılan herhangi bir politikayı geçersiz kılar. Bir ambargo düzenlemek istiyorsunuz fakat hedef koleksiyon herhangi bir kullanıcı için erişime 
+izin veriyor, o halde spesifik bir veriden sonra Anonim gruplar için erişime izin veren bir politika düzenlemelisiniz.</message>
 	<message key="xmlui.Submission.submit.AccessStep.no_policies">Bu öğe için herhangi bir grup politikası seçilmedi.</message>
 	<message key="xmlui.Submission.submit.AccessStep.new_policy_head">Ambargo</message>
     <message key="xmlui.Submission.submit.AccessStep.private_settings">Özel Öğe</message>
@@ -785,9 +837,13 @@
     <message key="xmlui.Submission.submit.AccessStep.column4">Bitiş Tarihi</message>
     <message key="xmlui.Submission.submit.AccessStep.table_edit_button">Düzenle</message>
     <message key="xmlui.Submission.submit.AccessStep.table_delete_button">Sil</message>
-    <message key="xmlui.administrative.authorization.AccessStep.label_date_help">Tarih yazım biçimi: yyyy, yyyy-aa, yyyy-aa-gg / Telif durumu kontrolü için: http://www.sherpa.ac.uk/romeo/</message>
-    <message key="xmlui.administrative.authorization.AccessStep.label_date_displayonly_help">Erişime izin verilen ilk gün. <b>Bu tarih bu form üzerinde düzeltilemez.</b> Bir veri dosyasının ambargo tarihini ayarlamak için, <i>Öğe Durumuna</i> gidin, <i>Yetkilendirme...</i>sekmesine tıklayın, veri dosyasının <i>OKUMA</i> ilkesini oluşturun veya düzenleyin ve istenen <i>Başlangıç Tarihini</i> ayarlayın.</message>
-	<message key="xmlui.Submission.submit.AccessStep.review_policy_line">İsim: {0}; eylem: {1}, grup: {2}, başlama tarihi: {3}, bitiş tarihi: {4}</message>
+    <message key="xmlui.administrative.authorization.AccessStep.label_date_help">Tarih yazım biçimi: yyyy, yyyy-aa, yyyy-aa-gg / Telif durumu 
+kontrolü için: http://www.sherpa.ac.uk/romeo/</message>
+    <message key="xmlui.administrative.authorization.AccessStep.label_date_displayonly_help">Erişime izin verilen ilk gün. <b>Bu tarih bu form 
+üzerinde düzeltilemez.</b> Bir veri dosyasının ambargo tarihini ayarlamak için, <i>Öğe Durumuna</i> gidin, <i>Yetkilendirme...</i>sekmesine 
+tıklayın, veri dosyasının <i>OKUMA</i> ilkesini oluşturun veya düzenleyin ve istenen <i>Başlangıç Tarihini</i> ayarlayın.</message>
+	<message key="xmlui.Submission.submit.AccessStep.review_policy_line">İsim: {0}; eylem: {1}, grup: {2}, başlama tarihi: {3}, bitiş tarihi: 
+{4}</message>
 	<message key="xmlui.Submission.submit.AccessStep.review_public_item">Öğe aranabilir olacak</message>
 	<message key="xmlui.Submission.submit.AccessStep.review_private_item">Öğe aranabilir olmayacak</message>
 
@@ -799,13 +855,19 @@
     <!-- org.dspace.app.xmlui.Submission.submit.UploadStep -->
 	<message key="xmlui.Submission.submit.UploadStep.head">Dosya/Dosyaları Yükle</message>
 	<message key="xmlui.Submission.submit.UploadStep.file">Dosya</message>
-	<message key="xmlui.Submission.submit.UploadStep.file_help">Öğe için bilgisayarınızdaki karşılığı olan dosyanın tam yolunu girin. Eğer "Göz at..." butonuna tıklarsanız açılacak yeni bir pencere bilgisayarınızdaki dosyayı seçmenize izin verir.</message>
+	<message key="xmlui.Submission.submit.UploadStep.file_help">Öğe için bilgisayarınızdaki karşılığı olan dosyanın tam yolunu girin. Eğer "Göz 
+at..." butonuna tıklarsanız açılacak yeni bir pencere bilgisayarınızdaki dosyayı seçmenize izin verir.</message>
 	<message key="xmlui.Submission.submit.UploadStep.file_error">Öğe en az bir dosya içermelidir.</message>
-	<message key="xmlui.Submission.submit.UploadStep.upload_error">Yüklediğiniz dosyada bir problem var. Ya girdiğiniz dosya adı yanlış, bize dosyanın doğru olarak ulaşmasını engelledi veya dahili sistem kullanım için işaretlenmiş bir dosya biçimini yüklerken bir ağ sorunu oluştu. Lütfen tekrar deneyin.</message>
-	<message key="xmlui.Submission.submit.UploadStep.virus_error">Dosyanın virüs taşıdığı tespit edildiğinden dolayı yüklenmedi. Lütfen sistem yöneticinize başvurun.</message>
-    <message key="xmlui.Submission.submit.UploadStep.virus_checker_error">Dosya virüs taramasından geçirilirken teknik bir problem meydana geldi. Lütfen sistem yöneticinize başvurun.</message>
+	<message key="xmlui.Submission.submit.UploadStep.upload_error">Yüklediğiniz dosyada bir problem var. Ya girdiğiniz dosya adı yanlış, bize 
+dosyanın doğru olarak ulaşmasını engelledi veya dahili sistem kullanım için işaretlenmiş bir dosya biçimini yüklerken bir ağ sorunu oluştu. Lütfen 
+tekrar deneyin.</message>
+	<message key="xmlui.Submission.submit.UploadStep.virus_error">Dosyanın virüs taşıdığı tespit edildiğinden dolayı yüklenmedi. Lütfen sistem 
+yöneticinize başvurun.</message>
+    <message key="xmlui.Submission.submit.UploadStep.virus_checker_error">Dosya virüs taramasından geçirilirken teknik bir problem meydana geldi. 
+Lütfen sistem yöneticinize başvurun.</message>
     <message key="xmlui.Submission.submit.UploadStep.description">Dosya açıklaması</message>
-	<message key="xmlui.Submission.submit.UploadStep.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. Örneğin, "<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney Verisi Okumaları</i>".</message>
+	<message key="xmlui.Submission.submit.UploadStep.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. Örneğin, 
+"<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney Verisi Okumaları</i>".</message>
 	<message key="xmlui.Submission.submit.UploadStep.submit_upload">Dosya yükle &amp; başka ekle</message>
 	<message key="xmlui.Submission.submit.UploadStep.head2">Yüklenmiş Dosyalar</message>
 	<message key="xmlui.Submission.submit.UploadStep.column0">İlk</message>
@@ -828,13 +890,19 @@
 
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.head">Dosya Yükle</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.file">Dosya</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.file_help">Bilgisayarınızdaki öğenin tam yolunu girin. Eğer "Göz at..." butonuna tıklarsanız açılacak yeni bir pencere bilgisayarınızdaki dosyayı seçmenize aracılık edecektir.</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.file_help">Bilgisayarınızdaki öğenin tam yolunu girin. Eğer "Göz at..." butonuna 
+tıklarsanız açılacak yeni bir pencere bilgisayarınızdaki dosyayı seçmenize aracılık edecektir.</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.file_error">Öğe en az bir dosya içermelidir.</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.upload_error">Dosyanız yüklenirken bir problem oluştu. Ya girdiğiniz dosya adı yanlış, ağ problemi nedeniyle dosyanın bize doğru erişimi gerçekleştirilemedi veya sadece dahili sistem için işaretlenen dosya biçimini yükleme girişiminde bulundunuz. Lütfen tekrar deneyiniz.</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.virus_error">Dosya, içeriğinin virüs taşıdığı tespit edildiğinden dolayı yüklenemedi. Lütfen sistem yöneticinizle temasa geçiniz.</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.virus_checker_error">Dosya virüs taramasından geçirilirken teknik bir problem meydana geldi. Lütfen sistem yöneticinizle temasa geçiniz.</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.upload_error">Dosyanız yüklenirken bir problem oluştu. Ya girdiğiniz dosya adı 
+yanlış, ağ problemi nedeniyle dosyanın bize doğru erişimi gerçekleştirilemedi veya sadece dahili sistem için işaretlenen dosya biçimini yükleme 
+girişiminde bulundunuz. Lütfen tekrar deneyiniz.</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.virus_error">Dosya, içeriğinin virüs taşıdığı tespit edildiğinden dolayı 
+yüklenemedi. Lütfen sistem yöneticinizle temasa geçiniz.</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.virus_checker_error">Dosya virüs taramasından geçirilirken teknik bir problem 
+meydana geldi. Lütfen sistem yöneticinizle temasa geçiniz.</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.description">Dosya Açıklaması</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. Örneğin, "<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney verisi okumaları</i>".</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. Örneğin, 
+"<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney verisi okumaları</i>".</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.submit_upload">Dosya yükle &amp; başka ekle</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.head2">Yüklenmiş Dosyalar</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column0">İlk</message>
@@ -859,14 +927,18 @@
 	<message key="xmlui.Submission.submit.EditFileStep.head">Dosya Düzenle</message>
 	<message key="xmlui.Submission.submit.EditFileStep.file">Dosya</message>
 	<message key="xmlui.Submission.submit.EditFileStep.description">Dosya Açıklaması</message>
-	<message key="xmlui.Submission.submit.EditFileStep.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. Örneğin, "<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney Verisi Okumaları</i>".</message>
-	<message key="xmlui.Submission.submit.EditFileStep.info1">Aşağıdaki listeden dosyanın biçimini seçin. Örneğin, "<i>Adobe PDF</i>" veya "<i>Microsoft Word</i>." <strong>Eğer biçim listede yoksa</strong>, aşağıdaki giriş kutusu listesinde tanımlayın.</message>
+	<message key="xmlui.Submission.submit.EditFileStep.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. Örneğin, 
+"<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney Verisi Okumaları</i>".</message>
+	<message key="xmlui.Submission.submit.EditFileStep.info1">Aşağıdaki listeden dosyanın biçimini seçin. Örneğin, "<i>Adobe PDF</i>" veya 
+"<i>Microsoft Word</i>." <strong>Eğer biçim listede yoksa</strong>, aşağıdaki giriş kutusu listesinde tanımlayın.</message>
 	<message key="xmlui.Submission.submit.EditFileStep.format_detected">Algılanan Biçim</message>
 	<message key="xmlui.Submission.submit.EditFileStep.format_selected">Seçilen Biçim</message>
 	<message key="xmlui.Submission.submit.EditFileStep.format_default">Biçim listede yoktur</message>
-	<message key="xmlui.Submission.submit.EditFileStep.info2">Eğer biçim yukarıdaki listede yoksa, <strong>"biçim listede yoktur"</strong> seçeneğini seçiniz ve aşağıdaki kutuda dosyanın biçimini tanımlayınız.</message>
+	<message key="xmlui.Submission.submit.EditFileStep.info2">Eğer biçim yukarıdaki listede yoksa, <strong>"biçim listede yoktur"</strong> 
+seçeneğini seçiniz ve aşağıdaki kutuda dosyanın biçimini tanımlayınız.</message>
 	<message key="xmlui.Submission.submit.EditFileStep.format_user">Diğer Biçim</message>
-	<message key="xmlui.Submission.submit.EditFileStep.format_user_help">Dosya oluşturmak için kullandığınız uygulamanın adı ve sürüm numarası (örneğin, "<i>ACMESoft SuperApp sürüm 1.5</i>".</message>
+	<message key="xmlui.Submission.submit.EditFileStep.format_user_help">Dosya oluşturmak için kullandığınız uygulamanın adı ve sürüm numarası 
+(örneğin, "<i>ACMESoft SuperApp sürüm 1.5</i>".</message>
 
     <!-- org.dspace.app.xmlui.Submission.submit.EditBitstreamPolicies -->
     <message key="xmlui.Submission.submit.EditBitstreamPolicies.head">Veri Dosyası Erişimini Düzenle</message>
@@ -891,9 +963,12 @@
 	<!-- org.dspace.app.xmlui.Submission.submit.CCLicenseStep -->
         <message key="xmlui.Submission.submit.CCLicenseStep.ccws_error">Bir hata oluştu ... {0}</message>
         <message key="xmlui.Submission.submit.CCLicenseStep.head">Çalışmanızın Lisansı</message>
-        <message key="xmlui.Submission.submit.CCLicenseStep.info1">Eğer isterseniz, öğeniz için bir <a href="http://creativecommons.org/">Creative Commons</a> lisansı ekleyebilirsiniz. <strong>Creative Commons lisansı, çalışmanızı okuyan kişilerin çalışmanızdan nasıl yararlanabileceğini gösterir</strong>.</message>
+        <message key="xmlui.Submission.submit.CCLicenseStep.info1">Eğer isterseniz, öğeniz için bir <a href="http://creativecommons.org/">Creative 
+Commons</a> lisansı ekleyebilirsiniz. <strong>Creative Commons lisansı, çalışmanızı okuyan kişilerin çalışmanızdan nasıl yararlanabileceğini 
+gösterir</strong>.</message>
         <message key="xmlui.Submission.submit.CCLicenseStep.submit_choose_creative_commons">Bir Lisans Seçiniz</message>
-        <message key="xmlui.Submission.submit.CCLicenseStep.submit_to_creative_commons">Bir lisans seçmek için Creative Commons web sayfasına gidin</message>
+        <message key="xmlui.Submission.submit.CCLicenseStep.submit_to_creative_commons">Bir lisans seçmek için Creative Commons web sayfasına 
+gidin</message>
         <message key="xmlui.Submission.submit.CCLicenseStep.license">Lisans Türleri</message>
         <message key="xmlui.Submission.submit.CCLicenseStep.select_change">Lisansınızı seçin veya düzenleyin...</message>
         <message key="xmlui.Submission.submit.CCLicenseStep.no_license">Creative Commons lisansı yok</message>
@@ -901,21 +976,29 @@
 
 	<!-- org.dspace.app.xmlui.Submission.submit.LicenseStep -->
 	<message key="xmlui.Submission.submit.LicenseStep.head">Dağıtım Lisansı</message>
-	<message key="xmlui.Submission.submit.LicenseStep.info1"><strong>Son bir adım daha var</strong>. DSpace'in gönderinizi yeniden üretme, çevirme ve dağıtma işlemlerini dünya çapında gerçekleştirebilmesi için, aşağıdaki koşulları kabul etmeniz gerekmektedir.</message>
-	<message key="xmlui.Submission.submit.LicenseStep.info2">Seçilmiş standart dağıtım lisansını, "Lisansı Kabul Ediyorum" tuşuna basarak kabul ediniz ve "Gönderiyi Tamamlamak" için tıklayınız.</message>
-	<message key="xmlui.Submission.submit.LicenseStep.info3">Eğer bu lisansla ilgili sorularınız var ise sistem yöneticiniz ile temasa geçiniz.</message>
+	<message key="xmlui.Submission.submit.LicenseStep.info1"><strong>Son bir adım daha var</strong>. DSpace'in gönderinizi yeniden üretme, 
+çevirme ve dağıtma işlemlerini dünya çapında gerçekleştirebilmesi için, aşağıdaki koşulları kabul etmeniz gerekmektedir.</message>
+	<message key="xmlui.Submission.submit.LicenseStep.info2">Seçilmiş standart dağıtım lisansını, "Lisansı Kabul Ediyorum" tuşuna basarak kabul 
+ediniz ve "Gönderiyi Tamamlamak" için tıklayınız.</message>
+	<message key="xmlui.Submission.submit.LicenseStep.info3">Eğer bu lisansla ilgili sorularınız var ise sistem yöneticiniz ile temasa 
+geçiniz.</message>
 	<message key="xmlui.Submission.submit.LicenseStep.decision_label">Dağıtım lisansı</message>
 	<message key="xmlui.Submission.submit.LicenseStep.decision_checkbox">Lisansı Kabul Ediyorum</message>
-	<message key="xmlui.Submission.submit.LicenseStep.decision_error">Gönderinizi tamamlayabilmek için lisansı kabul etmelisiniz. Eğer lisansı kabul etmezseniz bu seferlik çalışmanızı kaydedebilir ve daha sonra geri dönebilirsiniz veya aşağıdaki "Kaydet &amp; Çık" butonuna tıklayarak gönderiyi silebilirsiniz.</message>
+	<message key="xmlui.Submission.submit.LicenseStep.decision_error">Gönderinizi tamamlayabilmek için lisansı kabul etmelisiniz. Eğer lisansı 
+kabul etmezseniz bu seferlik çalışmanızı kaydedebilir ve daha sonra geri dönebilirsiniz veya aşağıdaki "Kaydet &amp; Çık" butonuna tıklayarak 
+gönderiyi silebilirsiniz.</message>
 
 	<!-- org.dspace.app.xmlui.Submission.submit.RemovedStep -->
 	<message key="xmlui.Submission.submit.RemovedStep.head">Gönderi silindi</message>
-	<message key="xmlui.Submission.submit.RemovedStep.info1">Gönderiniz iptal edildi ve tamamlanmamış gönderi öğesi sistemden kaldırıldı.</message>
+	<message key="xmlui.Submission.submit.RemovedStep.info1">Gönderiniz iptal edildi ve tamamlanmamış gönderi öğesi sistemden 
+kaldırıldı.</message>
 	<message key="xmlui.Submission.submit.RemovedStep.go_submission">Gönderi sayfasına git</message>
 
 	<!-- org.dspace.app.xmlui.Submission.submit.CompletedStep -->
 	<message key="xmlui.Submission.submit.CompletedStep.head">Gönderi tamamlama</message>
-	<message key="xmlui.Submission.submit.CompletedStep.info1">Gönderiniz kayıtlı olduğunuz koleksiyon için belirtilen iş akışı süresince dahil edecektir. Gönderiniz sistem yöneticisi tarafından onaylandığında veya gönderinizle ilgili bir problem olduğunda bir e-posta bildirimi alacaksınız. Bildirimi aldıktan sonra DSpace sayfasına giderek gönderinizin durumunu kontrol edebilirsiniz.</message>
+	<message key="xmlui.Submission.submit.CompletedStep.info1">Gönderiniz kayıtlı olduğunuz koleksiyon için belirtilen iş akışı süresince dahil 
+edecektir. Gönderiniz sistem yöneticisi tarafından onaylandığında veya gönderinizle ilgili bir problem olduğunda bir e-posta bildirimi alacaksınız. 
+Bildirimi aldıktan sonra DSpace sayfasına giderek gönderinizin durumunu kontrol edebilirsiniz.</message>
 	<message key="xmlui.Submission.submit.CompletedStep.go_submission">Gönderi sayfasına git</message>
 	<message key="xmlui.Submission.submit.CompletedStep.submit_again">Başka bir gönderi</message>
 
@@ -925,19 +1008,25 @@
 	<message key="xmlui.Submission.workflow.PerformTaskStep.take_submit">Görev Al</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.leave_help">Başka bir görev almak için bu görevi havuzda bırakın.</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.leave_submit">Görevi bırak</message>
-	<message key="xmlui.Submission.workflow.PerformTaskStep.approve_help">Eğer öğeyi görüntülediyseniz ve koleksiyona dahil etmek için uygunsa, "Onayla" seçeneğini tıklayınız.</message>
+	<message key="xmlui.Submission.workflow.PerformTaskStep.approve_help">Eğer öğeyi görüntülediyseniz ve koleksiyona dahil etmek için uygunsa, 
+"Onayla" seçeneğini tıklayınız.</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.approve_submit">Onayla</message>
-	<message key="xmlui.Submission.workflow.PerformTaskStep.commit_help">Öğeyi gözden geçirdikten sonra, öğeyi arşivlemek için bu seçeneği kullanınız.</message>
+	<message key="xmlui.Submission.workflow.PerformTaskStep.commit_help">Öğeyi gözden geçirdikten sonra, öğeyi arşivlemek için bu seçeneği 
+kullanınız.</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.commit_submit">Arşiv Taahhüdü</message>
-	<message key="xmlui.Submission.workflow.PerformTaskStep.reject_help">Eğer öğeyi gözden geçirdiğinizde koleksiyona dahil etmek için uygun <strong>olmadığını</strong> düşünüyorsanız, "Reddet" seçeneğini kullanınız. Daha sonra öğenin neden uygun olmadığını belirten bir mesaj girmeniz istenecektir. Bu mesajda, göndericiye öğenin reddedilme nedeni belirtilir, düzeltme istenir.</message>
+	<message key="xmlui.Submission.workflow.PerformTaskStep.reject_help">Eğer öğeyi gözden geçirdiğinizde koleksiyona dahil etmek için uygun 
+<strong>olmadığını</strong> düşünüyorsanız, "Reddet" seçeneğini kullanınız. Daha sonra öğenin neden uygun olmadığını belirten bir mesaj girmeniz 
+istenecektir. Bu mesajda, göndericiye öğenin reddedilme nedeni belirtilir, düzeltme istenir.</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.reject_submit">Reddet</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.edit_help">Öğenin üst verisini düzenlemek için bu seçeneği kullanın.</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.edit_submit">Üst veri düzenle</message>
-	<message key="xmlui.Submission.workflow.PerformTaskStep.return_help">Başka bir kullanıcının görevi gerçekleştirebilmesi için görevi havuza geri gönder</message>
+	<message key="xmlui.Submission.workflow.PerformTaskStep.return_help">Başka bir kullanıcının görevi gerçekleştirebilmesi için görevi havuza 
+geri gönder</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.return_submit">Görevi havuza geri gönder</message>
 
 	<!-- org.dspace.app.xmlui.Submission.workflow.RejectTaskStep -->
-	<message key="xmlui.Submission.workflow.RejectTaskStep.info1">Aşağıdaki kutuya gönderinin reddedilme nedeni girin, problemin giderilmesi ve yeniden gönderilmesi için gerekenleri belirtin.</message>
+	<message key="xmlui.Submission.workflow.RejectTaskStep.info1">Aşağıdaki kutuya gönderinin reddedilme nedeni girin, problemin giderilmesi ve 
+yeniden gönderilmesi için gerekenleri belirtin.</message>
 	<message key="xmlui.Submission.workflow.RejectTaskStep.reason">Neden</message>
 	<message key="xmlui.Submission.workflow.RejectTaskStep.reason_required">Neden alanı gereklidir</message>
 	<message key="xmlui.Submission.workflow.RejectTaskStep.submit_reject">Reddet</message>
@@ -954,14 +1043,18 @@
 	<!-- action-generated messages. These are referenced from the sitemap rather than a transformer -->
 
         <message key="xmlui.administrative.FlowCurationUtils.curate_success_notice">Görev başarıyla tamamlandı.</message>
-        <message key="xmlui.administrative.FlowCurationUtils.curate_failed_notice">Görev beklenmedik bir şekilde çıkartıldı veya hatalı. Daha fazla bilgi için, lütfen sistem yöneticinizle temasa geçiniz veya sistem günlüklerini (log) kontrol ediniz.</message>
+        <message key="xmlui.administrative.FlowCurationUtils.curate_failed_notice">Görev beklenmedik bir şekilde çıkartıldı veya hatalı. Daha fazla 
+bilgi için, lütfen sistem yöneticinizle temasa geçiniz veya sistem günlüklerini (log) kontrol ediniz.</message>
         <message key="xmlui.administrative.FlowCurationUtils.queue_success_notice">Görev başarıyla kuyruğa dahil edildi.</message>
-        <message key="xmlui.administrative.FlowCurationUtils.queue_failed_notice">Bir hata oluştu ve görev kuyruğa dahil edilmedi. Daha fazla bilgi için, lütfen sistem yöneticinizle temasa geçiniz veya sistem günlüklerini (log) kontrol ediniz.</message>
+        <message key="xmlui.administrative.FlowCurationUtils.queue_failed_notice">Bir hata oluştu ve görev kuyruğa dahil edilmedi. Daha fazla bilgi 
+için, lütfen sistem yöneticinizle temasa geçiniz veya sistem günlüklerini (log) kontrol ediniz.</message>
         <message key="xmlui.administrative.FlowEPersonUtils.add_eperson_success_notice">Kullanıcı başarıyla eklendi.</message>
 	<message key="xmlui.administrative.FlowEPersonUtils.edit_eperson_success_notice">Kullanıcı başarıyla düzeltildi.</message>
-	<message key="xmlui.administrative.FlowEPersonUtils.reset_password_success_notice">Kullanıcıya yeni bir şifre belirlemede kullanılmak üzere bir belirteç (jeton) içeren e-posta mesajı gönderildi.</message>
+	<message key="xmlui.administrative.FlowEPersonUtils.reset_password_success_notice">Kullanıcıya yeni bir şifre belirlemede kullanılmak üzere 
+bir belirteç (jeton) içeren e-posta mesajı gönderildi.</message>
 	<message key="xmlui.administrative.FlowEPersonUtils.delete_eperson_success_notice">Kullanıcı(lar) başarıyla silindi.</message>
-	<message key="xmlui.administrative.FlowEPersonUtils.delete_eperson_failed_notice">Listelenen kullanıcılar silinemedi; çünkü silinmesi kısıtlanmış. Daha fazla bilgi için e-kişi detaylarına bakınız.</message>
+	<message key="xmlui.administrative.FlowEPersonUtils.delete_eperson_failed_notice">Listelenen kullanıcılar silinemedi; çünkü silinmesi 
+kısıtlanmış. Daha fazla bilgi için e-kişi detaylarına bakınız.</message>
 	<message key="xmlui.administrative.FlowGroupUtils.edit_group_success_notice">Grup başarıyla düzeltildi.</message>
 	<message key="xmlui.administrative.FlowGroupUtils.delete_group_success_notice">Seçilmiş gruplar başarıyla silindi.</message>
 	<message key="xmlui.administrative.FlowRegistryUtils.add_metadata_schema_success_notice">Yeni şeme başarıyla oluşturuldu.</message>
@@ -1035,9 +1128,12 @@
 	<message key="xmlui.administrative.ItemExport.item.not.found">İstenen öğe bulunamadı.</message>
 	<message key="xmlui.administrative.ItemExport.collection.not.found">İstenen koleksiyon bulunamadı.</message>
 	<message key="xmlui.administrative.ItemExport.community.not.found">İstenen bölüm bulunamadı.</message>
-	<message key="xmlui.administrative.ItemExport.item.success">Öğe başarıyla ihraç edildi. Arşiv indirme için hazır olduğunda bir e-posta alacaksınız. Ayrıca kullanılabilir arşivlerinizi görüntülemek için "İhraçlarım" linkini kullanabilirsiniz.</message>
-	<message key="xmlui.administrative.ItemExport.collection.success">Koleksiyon başarıyla ihraç edildi. Arşiv indirme için hazır olduğunda bir e-posta alacaksınız. Ayrıca kullanılabilir arşivlerinizi görüntülemek için "İhraçlarım" linkini kullanabilirsiniz.</message>
-	<message key="xmlui.administrative.ItemExport.community.success">Bölüm başarıyla ihraç edildi. Arşiv indirme için hazır olduğunda bir e-posta alacaksınız. Ayrıca kullanılabilir arşivlerinizi görüntülemek için "İhraçlarım" linkini kullanabilirsiniz.</message>
+	<message key="xmlui.administrative.ItemExport.item.success">Öğe başarıyla ihraç edildi. Arşiv indirme için hazır olduğunda bir e-posta 
+alacaksınız. Ayrıca kullanılabilir arşivlerinizi görüntülemek için "İhraçlarım" linkini kullanabilirsiniz.</message>
+	<message key="xmlui.administrative.ItemExport.collection.success">Koleksiyon başarıyla ihraç edildi. Arşiv indirme için hazır olduğunda bir 
+e-posta alacaksınız. Ayrıca kullanılabilir arşivlerinizi görüntülemek için "İhraçlarım" linkini kullanabilirsiniz.</message>
+	<message key="xmlui.administrative.ItemExport.community.success">Bölüm başarıyla ihraç edildi. Arşiv indirme için hazır olduğunda bir 
+e-posta alacaksınız. Ayrıca kullanılabilir arşivlerinizi görüntülemek için "İhraçlarım" linkini kullanabilirsiniz.</message>
 	<message key="xmlui.administrative.ItemExport.available.head">İndirme için kullanılabilir arşiv ihraçları:</message>
 
 
@@ -1051,8 +1147,10 @@
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.actions_browse">E-Kişi Listeleme</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.actions_browse_link">Tüm E-Kişileri listelemek için buraya tıklayınız</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.actions_search">E-Kişi Ara</message>
-	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_help">E-Kişi, e-posta ve adındaki herhangi bir kısmi eşleşmeyle arandı.</message>
-	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_para1">Aramanızla eşleşen E-Kişilerin listesi aşağıdadır. Silmek istediğiniz E-Kişiyi seçiniz ve devam etmek için sil butonuna basınız veya düzenlemek için E-Kişinin email veya adına tıklayınız.</message>
+	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_help">E-Kişi, e-posta ve adındaki herhangi bir kısmi eşleşmeyle 
+arandı.</message>
+	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_para1">Aramanızla eşleşen E-Kişilerin listesi aşağıdadır. Silmek 
+istediğiniz E-Kişiyi seçiniz ve devam etmek için sil butonuna basınız veya düzenlemek için E-Kişinin email veya adına tıklayınız.</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_head">Arama Sonucu</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_column1"></message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_column2">ID</message>
@@ -1066,7 +1164,8 @@
 	<message key="xmlui.administrative.eperson.AddEPersonForm.title">E-Kişi ekle</message>
 	<message key="xmlui.administrative.eperson.AddEPersonForm.trail">E-Kişi ekle</message>
 	<message key="xmlui.administrative.eperson.AddEPersonForm.head1">Yeni bir kullanıcı oluştur</message>
-	<message key="xmlui.administrative.eperson.AddEPersonForm.email_taken">Verilen e-posta adresi başka bir E-Kişi tarafından kullanılmaktadır. E-posta tekil olmalıdır.</message>
+	<message key="xmlui.administrative.eperson.AddEPersonForm.email_taken">Verilen e-posta adresi başka bir E-Kişi tarafından kullanılmaktadır. 
+E-posta tekil olmalıdır.</message>
 	<message key="xmlui.administrative.eperson.AddEPersonForm.head2">Yeni E-Kişinin bilgileri:</message>
 	<message key="xmlui.administrative.eperson.AddEPersonForm.error_email_unique">E-Posta adresi tekil olmalıdır.</message>
 	<message key="xmlui.administrative.eperson.AddEPersonForm.error_email">E-Posta adresi gerekli</message>
@@ -1080,7 +1179,8 @@
 	<message key="xmlui.administrative.eperson.EditEPersonForm.title">E-Kişi Düzenle</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.trail">E-Kişi Düzenle</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.head1">Bir E-Kişi Düzenle</message>
-	<message key="xmlui.administrative.eperson.EditEPersonForm.email_taken">Verdiğiniz e-posta adresi başka bir E-Kişi tarafından kullanılmaktadır. E-posta tekil olmalıdır.</message>
+	<message key="xmlui.administrative.eperson.EditEPersonForm.email_taken">Verdiğiniz e-posta adresi başka bir E-Kişi tarafından 
+kullanılmaktadır. E-posta tekil olmalıdır.</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.head2">{0} adlı e-kişinin bilgileri:</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.error_email_unique">E-posta adresi tekil olmalıdır</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.error_email">E-posta adresi gerekli</message>
@@ -1089,16 +1189,22 @@
 	<message key="xmlui.administrative.eperson.EditEPersonForm.req_certs">Sertifika Gerekli</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.can_log_in">Giriş yapabilirsiniz</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.submit_reset_password">Şifre Sıfırla</message>
-	<message key="xmlui.administrative.eperson.EditEPersonForm.special_help">Bu E-Kişiyi sistemden kalıcı olarak silebilirsiniz veya şifresini sıfırlayabilirsiniz. Şifresini sıfırlamanız halinde kullanıcıya, içinde özel bir bağlantı içeren e-posta gönderilecektir ve kullanıcı bağlantıyı takip ederek yeni şifresini belirleyebilecektir.</message>
+	<message key="xmlui.administrative.eperson.EditEPersonForm.special_help">Bu E-Kişiyi sistemden kalıcı olarak silebilirsiniz veya şifresini 
+sıfırlayabilirsiniz. Şifresini sıfırlamanız halinde kullanıcıya, içinde özel bir bağlantı içeren e-posta gönderilecektir ve kullanıcı bağlantıyı 
+takip ederek yeni şifresini belirleyebilecektir.</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.submit_delete">E-Kişi Sil</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.submit_login_as">E-Kişi olarak giriş yap</message>
 
-	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint">Bu e-kişi aşağıdaki kısıtlama(lar) nedeniyle silinemez.</message>
+	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint">Bu e-kişi aşağıdaki kısıtlama(lar) nedeniyle 
+silinemez.</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint.last_conjunction">ve</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint.item">e-kişi bir veya daha fazla öğe gönderisi yaptı</message>
-	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint.workflowitem">e-kişinin bir aktif gönderi iş akışı var.</message>
-	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint.tasklistitem">e-kişinin karar vermesi gereken iş akışı görevi var</message>
-	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint.unknown">e-kişinin bu sistemdeki kısıtlamaları belirlenmemiştir</message>
+	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint.workflowitem">e-kişinin bir aktif gönderi iş akışı 
+var.</message>
+	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint.tasklistitem">e-kişinin karar vermesi gereken iş akışı görevi 
+var</message>
+	<message key="xmlui.administrative.eperson.EditEPersonForm.delete_constraint.unknown">e-kişinin bu sistemdeki kısıtlamaları 
+belirlenmemiştir</message>
 
 	<message key="xmlui.administrative.eperson.EditEPersonForm.member_head">E-Kişi bu gurupların bir üyesidir:</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.indirect_member">(grup yoluyla: {0})</message>
@@ -1147,13 +1253,15 @@
 	<message key="xmlui.administrative.group.EditGroupForm.member">Üye</message>
 	<message key="xmlui.administrative.group.EditGroupForm.cycle">aşama</message>
 	<message key="xmlui.administrative.group.EditGroupForm.pending">Bekleyen</message>
-	<message key="xmlui.administrative.group.EditGroupForm.pending_warn">Not: Kaydet butonuna basana kadar bekleyen değişiklikler kaydedilmez.</message>
+	<message key="xmlui.administrative.group.EditGroupForm.pending_warn">Not: Kaydet butonuna basana kadar bekleyen değişiklikler 
+kaydedilmez.</message>
 	<message key="xmlui.administrative.group.EditGroupForm.submit_add">Ekle</message>
 	<message key="xmlui.administrative.group.EditGroupForm.submit_remove">Sil</message>
 	<message key="xmlui.administrative.group.EditGroupForm.collection_para">Bu grubun toplandığı koleksiyon: </message>
 	<message key="xmlui.administrative.group.EditGroupForm.community_para">Bu grubun toplandığı bölüm: </message>
 	<message key="xmlui.administrative.group.EditGroupForm.label_name">Grup adını değiştir: </message>
-	<message key="xmlui.administrative.group.EditGroupForm.label_instructions">Bu grup özel bir koleksiyon veya bölümde toplandığından adı düzenlenemez.</message>
+	<message key="xmlui.administrative.group.EditGroupForm.label_instructions">Bu grup özel bir koleksiyon veya bölümde toplandığından adı 
+düzenlenemez.</message>
 	<message key="xmlui.administrative.group.EditGroupForm.label_search">Eklemek için üye ara: </message>
 	<message key="xmlui.administrative.group.EditGroupForm.submit_search_people">E-Kişi...</message>
 	<message key="xmlui.administrative.group.EditGroupForm.submit_search_groups">Gruplar...</message>
@@ -1197,7 +1305,8 @@
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.title">Veri dosyası biçimlerini sil</message>
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.trail">Veri dosyası biçimlerini sil</message>
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.head">Silmeyi Onayla</message>
-	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.para1">Biçimi silmek istediğinizden emin misiniz? Açık olan veri akış biçimleri bilinmeyen biçime döndürülecektir.</message>
+	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.para1">Biçimi silmek istediğinizden emin misiniz? Açık olan veri 
+akış biçimleri bilinmeyen biçime döndürülecektir.</message>
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.column1">ID</message>
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.column2">MIME Türü</message>
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.column3">Ad</message>
@@ -1206,9 +1315,12 @@
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.title">Alanları Sil</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.trail">Alanları Sil</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.head">Silmeyi Onayla</message>
-	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.para1">Bu alanları <b>kesinlikle</b> silmek istediğinize emin misiniz? Eğer bu alanlar için üst veri herhangi bir öğe içeriyorsa alanlar silinmeyecektir. Bu alanların herhangi bir öğe içermediğine emin olunuz.</message>
+	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.para1">Bu alanları <b>kesinlikle</b> silmek istediğinize emin 
+misiniz? Eğer bu alanlar için üst veri herhangi bir öğe içeriyorsa alanlar silinmeyecektir. Bu alanların herhangi bir öğe içermediğine emin 
+olunuz.</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.warning">UYARI: </message>
-	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.para2">Bu alanlar için üst veri herhangi bir öğe içeriyorsa hataya neden olur.</message>
+	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.para2">Bu alanlar için üst veri herhangi bir öğe içeriyorsa hataya 
+neden olur.</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.column1">ID</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.column2">Ad</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.column3">Kapsam Notu</message>
@@ -1217,9 +1329,12 @@
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.title">Şema Sil</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.trail">Şema sil</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.head">Silmeyi Onayla</message>
-	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.para1">Bu şemayı <b>kesinlikle</b> silmek istediğinize emin misiniz? Eğer bu şema için üst veri herhangi bir öğe içeriyorsa alanlar silinmeyecektir. Bu şemanın herhangi bir öğe içermediğine emin olunuz.</message>
+	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.para1">Bu şemayı <b>kesinlikle</b> silmek istediğinize emin 
+misiniz? Eğer bu şema için üst veri herhangi bir öğe içeriyorsa alanlar silinmeyecektir. Bu şemanın herhangi bir öğe içermediğine emin 
+olunuz.</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.warning">UYARI: </message>
-	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.para2">Bu şema için üst veri herhangi bir öğe içeriyorsa hataya neden olur.</message>
+	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.para2">Bu şema için üst veri herhangi bir öğe içeriyorsa hataya 
+neden olur.</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.column1">ID</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.column2">Alan Adı</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.column3">Ad</message>
@@ -1229,12 +1344,16 @@
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.trail">Veri akış biçimi</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.head1">Yeni veri akış biçimi</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.head2">Veri akış biçimi: {0}</message>
-	<message key="xmlui.administrative.registries.EditBitstreamFormat.para1">Aşağıdaki veri dosyası için tanımlayıcı üst veri sağlayın. MIME türü ihtiyaç duymaz ancak biçim adı tekil olmalıdır. Örneğin, Microsoft Word'ün farklı sürümleri için ayrı biçim girişleri yapmalısınız; aksi takdirde MIME türleri her bir öğe için aynı olur.</message>
+	<message key="xmlui.administrative.registries.EditBitstreamFormat.para1">Aşağıdaki veri dosyası için tanımlayıcı üst veri sağlayın. MIME 
+türü ihtiyaç duymaz ancak biçim adı tekil olmalıdır. Örneğin, Microsoft Word'ün farklı sürümleri için ayrı biçim girişleri yapmalısınız; aksi 
+takdirde MIME türleri her bir öğe için aynı olur.</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.name">Ad</message>
-	<message key="xmlui.administrative.registries.EditBitstreamFormat.name_help">Bu biçim için tekil bir ad, (Ör. Microsoft Word XP veya Microsoft Word 2000)</message>
+	<message key="xmlui.administrative.registries.EditBitstreamFormat.name_help">Bu biçim için tekil bir ad, (Ör. Microsoft Word XP veya 
+Microsoft Word 2000)</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.name_error">Alan adı gerekli.</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.mimetype">MIME Türü</message>
-	<message key="xmlui.administrative.registries.EditBitstreamFormat.mimetype_help">MIME türü bu biçimde toplanmıştır ve tekil olmayabilir.</message>
+	<message key="xmlui.administrative.registries.EditBitstreamFormat.mimetype_help">MIME türü bu biçimde toplanmıştır ve tekil 
+olmayabilir.</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.description">Açıklama</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.support">Destek düzeyi</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.support_help">Bu biçim için kurumunuzun verdiği desteğin düzeyi</message>
@@ -1242,15 +1361,18 @@
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.support_1">Bilinen</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.support_2">Destekli</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.internal">Dahili</message>
-	<message key="xmlui.administrative.registries.EditBitstreamFormat.internal_help">Kullanıcı tarafından saklı biçimler dahili olarak işaretlendi ve yönetimsel amaçlar için kullanılır.</message>
+	<message key="xmlui.administrative.registries.EditBitstreamFormat.internal_help">Kullanıcı tarafından saklı biçimler dahili olarak 
+işaretlendi ve yönetimsel amaçlar için kullanılır.</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.extensions">Dosya uzantıları</message>
-	<message key="xmlui.administrative.registries.EditBitstreamFormat.extensions_help">Uzantılar otomatik yüklenen dosyaların biçimini tanımlamak için kullanılan dosya uzantılardır. Her bir biçim için çok sayıda uzantı girebilirsiniz.</message>
+	<message key="xmlui.administrative.registries.EditBitstreamFormat.extensions_help">Uzantılar otomatik yüklenen dosyaların biçimini 
+tanımlamak için kullanılan dosya uzantılardır. Her bir biçim için çok sayıda uzantı girebilirsiniz.</message>
 
 	<!-- org.dspace.app.xmlui.administrative.registries.EditMetadataSchema.java -->
 	<message key="xmlui.administrative.registries.EditMetadataSchema.title">Üst Veri Şeması</message>
 	<message key="xmlui.administrative.registries.EditMetadataSchema.trail">Üst veri şeması</message>
 	<message key="xmlui.administrative.registries.EditMetadataSchema.head1">Üst veri şeması: "{0}"</message>
-	<message key="xmlui.administrative.registries.EditMetadataSchema.para1">Bu "{0}" için üst veri şemasıdır. Bu şemaya yeni alanlar ekleyebilir veya açık olan üst veri alanlarını güncelleyebilirsiniz.</message>
+	<message key="xmlui.administrative.registries.EditMetadataSchema.para1">Bu "{0}" için üst veri şemasıdır. Bu şemaya yeni alanlar ekleyebilir 
+veya açık olan üst veri alanlarını güncelleyebilirsiniz.</message>
 	<message key="xmlui.administrative.registries.EditMetadataSchema.head2">Şema üst veri alanları</message>
 	<message key="xmlui.administrative.registries.EditMetadataSchema.column1"></message>
 	<message key="xmlui.administrative.registries.EditMetadataSchema.column2">ID</message>
@@ -1267,17 +1389,23 @@
 	<message key="xmlui.administrative.registries.EditMetadataSchema.head4">Alan Güncelle: {0}</message>
 	<message key="xmlui.administrative.registries.EditMetadataSchema.submit_update">Alan Güncelle</message>
 	<message key="xmlui.administrative.registries.EditMetadataSchema.error">Hata</message>
-	<message key="xmlui.administrative.registries.EditMetadataSchema.error_duplicate_field">Alan adı zaten kullanımda, tüm öğeler ve niteleyiciler tekil olmalıdır.</message>
+	<message key="xmlui.administrative.registries.EditMetadataSchema.error_duplicate_field">Alan adı zaten kullanımda, tüm öğeler ve 
+niteleyiciler tekil olmalıdır.</message>
 	<message key="xmlui.administrative.registries.EditMetadataSchema.error_element_empty">Alan öğesi gereklidir.</message>
-	<message key="xmlui.administrative.registries.EditMetadataSchema.error_element_badchar">Alan öğesi istenmeyen karakter içermektedir. Öğe, nokta, altçizgi ve boşluk içeremez.</message>
-	<message key="xmlui.administrative.registries.EditMetadataSchema.error_element_tolong">Alan öğesi çok uzun, 32 karakterden az olmalıdır.</message>
-	<message key="xmlui.administrative.registries.EditMetadataSchema.error_qualifier_tolong">Alan niteleyicisi çok uzun, 32 karakterden az olmalıdır.</message>
-	<message key="xmlui.administrative.registries.EditMetadataSchema.error_qualifier_badchar">Alan niteleyicisi istenmeyen karakter içermektedir. Niteleyici nokta, altçizgi ve boşluk içeremez.</message>
+	<message key="xmlui.administrative.registries.EditMetadataSchema.error_element_badchar">Alan öğesi istenmeyen karakter içermektedir. Öğe, 
+nokta, altçizgi ve boşluk içeremez.</message>
+	<message key="xmlui.administrative.registries.EditMetadataSchema.error_element_tolong">Alan öğesi çok uzun, 32 karakterden az 
+olmalıdır.</message>
+	<message key="xmlui.administrative.registries.EditMetadataSchema.error_qualifier_tolong">Alan niteleyicisi çok uzun, 32 karakterden az 
+olmalıdır.</message>
+	<message key="xmlui.administrative.registries.EditMetadataSchema.error_qualifier_badchar">Alan niteleyicisi istenmeyen karakter 
+içermektedir. Niteleyici nokta, altçizgi ve boşluk içeremez.</message>
 
 	<!-- org.dspace.app.xmlui.administrative.registries.FormatRegistryMain.java -->
 	<message key="xmlui.administrative.registries.FormatRegistryMain.title">Kayıt Biçimi</message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.head">Veri akış biçimi kaydı</message>
-	<message key="xmlui.administrative.registries.FormatRegistryMain.para1">Bu veri dosyası biçimleri bilinen biçimler hakkında bilgi verir ve onların desteklenen düzeyleridir. Bu araçla veri akışlarını düzenleyebilir veya yeni veri dosyası ekleyebilirsiniz.</message>
+	<message key="xmlui.administrative.registries.FormatRegistryMain.para1">Bu veri dosyası biçimleri bilinen biçimler hakkında bilgi verir ve 
+onların desteklenen düzeyleridir. Bu araçla veri akışlarını düzenleyebilir veya yeni veri dosyası ekleyebilirsiniz.</message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.new_link">Yeni veri dosyası biçimi ekle</message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.column1"></message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.column2">ID</message>
@@ -1293,7 +1421,9 @@
 	<!-- org.dspace.app.xmlui.administrative.registries.MetadatRegistryMain.java -->
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.title">Üst Veri Kaydı</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.head1">Üst veri kaydı</message>
-	<message key="xmlui.administrative.registries.MetadataRegistryMain.para1">Üst veri kaydı dijital arşivde kullanılabilir tüm üst veri alanlarının bir listesini tutar. Bu alanlar birden çok şema arasında bölünmüş olabilir. Ancak, DSpace nitelikli Dublin Core şeması gerektirir. Ek alanları ile Dublin Core şemasını genişletebilir veya kayıt için yeni şemalar ekleyebilirsiniz.</message>
+	<message key="xmlui.administrative.registries.MetadataRegistryMain.para1">Üst veri kaydı dijital arşivde kullanılabilir tüm üst veri 
+alanlarının bir listesini tutar. Bu alanlar birden çok şema arasında bölünmüş olabilir. Ancak, DSpace nitelikli Dublin Core şeması gerektirir. Ek 
+alanları ile Dublin Core şemasını genişletebilir veya kayıt için yeni şemalar ekleyebilirsiniz.</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.column1"></message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.column2">ID</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.column3">Alan adı</message>
@@ -1301,18 +1431,22 @@
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.submit_delete">Şema Sil</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.head2">Yeni bir şema ekle</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.namespace">Alan adı</message>
-	<message key="xmlui.administrative.registries.MetadataRegistryMain.namespace_help">Alan adı yeni şema için URI adresine kurulmuş olmalıdır.</message>
+	<message key="xmlui.administrative.registries.MetadataRegistryMain.namespace_help">Alan adı yeni şema için URI adresine kurulmuş 
+olmalıdır.</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.namespace_error">Bu alan gereklidir.</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.name">Ad</message>
-	<message key="xmlui.administrative.registries.MetadataRegistryMain.name_help">Şema için yazı yöntemi (steno) gösterimi. Bu önek bir alan adı için kullanılır (Ör. dc.element.qualifier). Ad 32 karakterden az olmalı ve boşluk, nokta ve alt çizgi içermemelidir.</message>
-	<message key="xmlui.administrative.registries.MetadataRegistryMain.name_error">Bu alan gereklidir ve 32 karakterden az olmalıdır. Ayrıca boşluk, nokta ve alt çizgi içermemelidir.</message>
+	<message key="xmlui.administrative.registries.MetadataRegistryMain.name_help">Şema için yazı yöntemi (steno) gösterimi. Bu önek bir alan adı 
+için kullanılır (Ör. dc.element.qualifier). Ad 32 karakterden az olmalı ve boşluk, nokta ve alt çizgi içermemelidir.</message>
+	<message key="xmlui.administrative.registries.MetadataRegistryMain.name_error">Bu alan gereklidir ve 32 karakterden az olmalıdır. Ayrıca 
+boşluk, nokta ve alt çizgi içermemelidir.</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.submit_add">Yeni şema ekle</message>
 
 	<!-- org.dspace.app.xmlui.administrative.registries.MoveMetadataField.java -->
 	<message key="xmlui.administrative.registries.MoveMetadataField.title">Alanları Taşı</message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.trail">Alanları taşı</message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.head1">Üst veri alanlarını taşı</message>
-	<message key="xmlui.administrative.registries.MoveMetadataField.para1">Bu alanların taşınacağı hedef bir şema seçiniz. Eğer hedef şema hali hazırda özdeş alanlar içeriyorsa alanlar taşınmayacaktır.</message>
+	<message key="xmlui.administrative.registries.MoveMetadataField.para1">Bu alanların taşınacağı hedef bir şema seçiniz. Eğer hedef şema hali 
+hazırda özdeş alanlar içeriyorsa alanlar taşınmayacaktır.</message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.column1">ID</message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.column2">Ad</message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.column3">Kapsam Notu</message>
@@ -1335,18 +1469,23 @@
 	<message key="xmlui.administrative.authorization.AuthorizationMain.search_help">Kulp veya dahili kimlik ile öğeler bulunabilir</message>
 	<message key="xmlui.administrative.authorization.AuthorizationMain.submit_find">Bul</message>
 	<message key="xmlui.administrative.authorization.AuthorizationMain.actions_advanced">Gelişmiş yetkilendirme aracı</message>
-	<message key="xmlui.administrative.authorization.AuthorizationMain.actions_advanced_link">Öğenin joker politika yönetim aracına gitmek için buraya tıklayın</message>
+	<message key="xmlui.administrative.authorization.AuthorizationMain.actions_advanced_link">Öğenin joker politika yönetim aracına gitmek için 
+buraya tıklayın</message>
 	<message key="xmlui.administrative.authorization.AuthorizationMain.containerList_head">Bölüm/koleksiyon yetkilendirmeleri</message>
-	<message key="xmlui.administrative.authorization.AuthorizationMain.containerList_para">Bölüm veya koleksiyon politikalarını düzenlemek için üzerine tıklayın.</message>
+	<message key="xmlui.administrative.authorization.AuthorizationMain.containerList_para">Bölüm veya koleksiyon politikalarını düzenlemek için 
+üzerine tıklayın.</message>
 
 
 
 	<!-- org.dspace.app.xmlui.administrative.authorization.EditContainerPolicies -->
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.title">Politikaları Düzenle</message>
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.trail">Politikalar Listesi</message>
-	<message key="xmlui.administrative.authorization.EditContainerPolicies.main_head_collection">Koleksiyon için politikalar: "{0}" ({1},ID: {2})</message>
-	<message key="xmlui.administrative.authorization.EditContainerPolicies.main_head_community">Bölüm için politikalar: "{0}" ({1},ID: {2})</message>
-	<message key="xmlui.administrative.authorization.EditContainerPolicies.main_add_link">Yeni bir politika eklemek için buraya tıklayın. </message>
+	<message key="xmlui.administrative.authorization.EditContainerPolicies.main_head_collection">Koleksiyon için politikalar: "{0}" ({1},ID: 
+{2})</message>
+	<message key="xmlui.administrative.authorization.EditContainerPolicies.main_head_community">Bölüm için politikalar: "{0}" ({1},ID: 
+{2})</message>
+	<message key="xmlui.administrative.authorization.EditContainerPolicies.main_add_link">Yeni bir politika eklemek için buraya tıklayın. 
+</message>
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.submit_add">Ekle</message>
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.head_id">ID</message>
     <message key="xmlui.administrative.authorization.EditContainerPolicies.head_name">Ad</message>
@@ -1363,8 +1502,12 @@
 	<message key="xmlui.administrative.authorization.EditItemPolicies.title">Öğe Politikalarını Düzenle</message>
 	<message key="xmlui.administrative.authorization.EditItemPolicies.trail">Politikalar Listesi</message>
 	<message key="xmlui.administrative.authorization.EditItemPolicies.main_head">Öğe için politikalar: {0} (ID={1})</message>
-	<message key="xmlui.administrative.authorization.EditItemPolicies.main_para1">Bu metin düzenleyicisi ile bir öğenin ilkelerini görüntüleyebilir ve değiştirebilirsiniz. Dahası bireysel öğe birleşenlerinin ilkelerini değiştirebilirsiniz (Örneğin; İlke paketleri ve veri dosyası). Kısaca bir öğe, paketin kapsayıcısı, paketler de veri akışlarının kapsayıcısıdırlar. Kapsayıcılar <strong>Ekle/Kaldır/Oku/Yaz</strong> ilkelerine sahipken, veri akışları sadece <strong>Oku/Yaz</strong> ilkelerine sahiptir.</message>
-	<message key="xmlui.administrative.authorization.EditItemPolicies.main_para2">Her bir öğe için ekstra bir paket ve veri dosyası olduğunu fark edeceksiniz. Bunlar öğeler için lisans metnini içermektedir.</message>
+	<message key="xmlui.administrative.authorization.EditItemPolicies.main_para1">Bu metin düzenleyicisi ile bir öğenin ilkelerini 
+görüntüleyebilir ve değiştirebilirsiniz. Dahası bireysel öğe birleşenlerinin ilkelerini değiştirebilirsiniz (Örneğin; İlke paketleri ve veri 
+dosyası). Kısaca bir öğe, paketin kapsayıcısı, paketler de veri akışlarının kapsayıcısıdırlar. Kapsayıcılar <strong>Ekle/Kaldır/Oku/Yaz</strong> 
+ilkelerine sahipken, veri akışları sadece <strong>Oku/Yaz</strong> ilkelerine sahiptir.</message>
+	<message key="xmlui.administrative.authorization.EditItemPolicies.main_para2">Her bir öğe için ekstra bir paket ve veri dosyası olduğunu 
+fark edeceksiniz. Bunlar öğeler için lisans metnini içermektedir.</message>
 	<message key="xmlui.administrative.authorization.EditItemPolicies.subhead_item">Öğe Politikaları</message>
 	<message key="xmlui.administrative.authorization.EditItemPolicies.subhead_bundle">İlke Paketi: {0} ({1})</message>
 	<message key="xmlui.administrative.authorization.EditItemPolicies.subhead_bitstream">Veri Dosyası: {0} ({1})</message>
@@ -1400,33 +1543,41 @@
     <message key="xmlui.administrative.authorization.EditPolicyForm.label_start_date">Başlangıç Tarihi</message>
     <message key="xmlui.administrative.authorization.EditPolicyForm.label_end_date">Bitiş Tarihi</message>
     <message key="xmlui.administrative.authorization.EditPolicyForm.error_date_format">Hatalı tarih</message>
-    <message key="xmlui.administrative.authorization.EditPolicyForm.error_duplicated_policy">Bu grup ve eylem için geçerli olan politika zaten var.</message>
-    <message key="xmlui.administrative.authorization.EditPolicyForm.error_start_date_greater_than_end_date">Başlangıç tarihi bitiş tarihinden büyüktür</message>
+    <message key="xmlui.administrative.authorization.EditPolicyForm.error_duplicated_policy">Bu grup ve eylem için geçerli olan politika zaten 
+var.</message>
+    <message key="xmlui.administrative.authorization.EditPolicyForm.error_start_date_greater_than_end_date">Başlangıç tarihi bitiş tarihinden 
+büyüktür</message>
     <message key="xmlui.administrative.authorization.EditPolicyForm.label_date_help">Kabul edilebilir biçim: yyyy, yyyy-aa, yyyy-aa-gg</message>
 
     <!-- org.dspace.app.xmlui.administrative.authorization.AdvacedAuthorizationsForm -->
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.title">Gelişmiş Politika Yöneticisi</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.trail">Gelişmiş Yetkilendirmeler</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.main_head">Gelişmiş Politika Yöneticisi</message>
-	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.main_para">Joker eklemeler ve özel koleksiyon içinde içerik türler(ler)i için politikalar takas edilebilir. UYARI: Öğelerin OKUMA izinlerini kaldırırsanız görüntülenmeleri mümkün olmaz!</message>
+	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.main_para">Joker eklemeler ve özel koleksiyon içinde içerik 
+türler(ler)i için politikalar takas edilebilir. UYARI: Öğelerin OKUMA izinlerini kaldırırsanız görüntülenmeleri mümkün olmaz!</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_groupSentence">Seçilmiş tüm gruplar için...</message>
-    <message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_actionSentence">...aşağıdaki eylemi gerçekleştirmek için yetki ver...</message>
-	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_resourceSentence">...aşağıdaki tüm obje türleri için...</message>
-    <message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_collectionSentence">...aşağıdaki koleksiyonlar arasında...</message>
+    <message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_actionSentence">...aşağıdaki eylemi gerçekleştirmek için 
+yetki ver...</message>
+	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_resourceSentence">...aşağıdaki tüm obje türleri 
+için...</message>
+    <message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_collectionSentence">...aşağıdaki koleksiyonlar 
+arasında...</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_policyGroup">Grup</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_policyAction">Eylem</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_policyResource">İçerik Türü</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_policyCollections">Koleksiyon</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.submit_add">Politika Ekle</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.submit_remove_all">Politika sil</message>
-    <message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.label_date_help">Kabul edilebilir biçim: yyyy, yyyy-aa, yyyy-aa-gg</message>
+    <message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.label_date_help">Kabul edilebilir biçim: yyyy, yyyy-aa, 
+yyyy-aa-gg</message>
 
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_name">Ad</message>
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_description">Açıklama</message>
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_start_date">Başlangıç Tarihi</message>
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_end_date">Bitiş Tarihi</message>
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.error_date_format">Hatalı Tarih</message>
-    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.error_start_date_greater_than_end_date">Başlangıç tarihi bitiş tarihinden büyüktür</message>
+    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.error_start_date_greater_than_end_date">Başlangıç tarihi bitiş 
+tarihinden büyüktür</message>
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.error_groupIds">En az bir grup seçin</message>
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.error_collectionIds">En az bir koleksiyon seçin</message>
 
@@ -1496,11 +1647,15 @@
 	<message key="xmlui.administrative.item.AddBitstreamForm.bundle.LICENSE">Lisanslar</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.bundle.CC-LICENSE">Creative Commons Lisansı</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.file_label">Dosya</message>
-	<message key="xmlui.administrative.item.AddBitstreamForm.file_help">Lütfen yükleyeceğiniz öğeye karşılık gelen sabit disk üzerindeki dosya adını girin. Eğer "Göz at..." butonuna tıklarsanız, yeni bir pencere açılacaktır. Bu pencere aracılığıyla yükleyeceğiniz dosyayı seçebilirsiniz.</message>
+	<message key="xmlui.administrative.item.AddBitstreamForm.file_help">Lütfen yükleyeceğiniz öğeye karşılık gelen sabit disk üzerindeki dosya 
+adını girin. Eğer "Göz at..." butonuna tıklarsanız, yeni bir pencere açılacaktır. Bu pencere aracılığıyla yükleyeceğiniz dosyayı 
+seçebilirsiniz.</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.description_label">Açıklama</message>
-	<message key="xmlui.administrative.item.AddBitstreamForm.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. Örneğin, "<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney Verisi Okumaları</i>".</message>
+	<message key="xmlui.administrative.item.AddBitstreamForm.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. Örneğin, 
+"<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney Verisi Okumaları</i>".</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.submit_upload">Yükle</message>
-	<message key="xmlui.administrative.item.AddBitstreamForm.no_bundles">Yeni veri dosyası yüklemek için en az bir paket üzerinde EKLEME &amp; YAZMA yetkisi gerekir.</message>
+	<message key="xmlui.administrative.item.AddBitstreamForm.no_bundles">Yeni veri dosyası yüklemek için en az bir paket üzerinde EKLEME &amp; 
+YAZMA yetkisi gerekir.</message>
 
 	<!-- org.dspace.app.xmlui.administrative.item.DeleteBitstreamConfirm -->
 	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.title">Silmeyi Onayla</message>
@@ -1515,7 +1670,8 @@
 	<message key="xmlui.administrative.item.ConfirmItemForm.title">Onayla</message>
 	<message key="xmlui.administrative.item.ConfirmItemForm.trail">Onayla</message>
 	<message key="xmlui.administrative.item.ConfirmItemForm.head1">Öğe düzenle: {0}</message>
-	<message key="xmlui.administrative.item.ConfirmItemForm.para_delete">Bu öğenin tamamen silinmesi gerektiğine emin misiniz? Dikkat: Bu durumda, hiçbir öğe kalmayacak!</message>
+	<message key="xmlui.administrative.item.ConfirmItemForm.para_delete">Bu öğenin tamamen silinmesi gerektiğine emin misiniz? Dikkat: Bu 
+durumda, hiçbir öğe kalmayacak!</message>
 	<message key="xmlui.administrative.item.ConfirmItemForm.para_withdraw">Bu öğenin arşivden kaldırılması gerektiğine emin misiniz?</message>
 	<message key="xmlui.administrative.item.ConfirmItemForm.para_reinstate">bu öğeyi arşive geri yüklemek istediğinizden emin misiniz?</message>
 	<message key="xmlui.administrative.item.ConfirmItemForm.column1">Alan</message>
@@ -1546,15 +1702,20 @@
 	<message key="xmlui.administrative.item.EditBitstreamForm.primary_option_yes">evet</message>
 	<message key="xmlui.administrative.item.EditBitstreamForm.primary_option_no">hayır</message>
 	<message key="xmlui.administrative.item.EditBitstreamForm.description_label">Açıklama</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. Örneğin, "<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney Verisi Okumaları</i>".</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.para1">Aşağıdaki listeden dosyanın biçimini seçin. Örneğin, "<i>Adobe PDF</i>" veya "<i>Microsoft Word</i>." <strong>Eğer biçim listede yoksa</strong>, aşağıdaki giriş kutusu listesinde tanımlayın.</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.description_help">İsteğe bağlı olarak, dosya için kısa bir açıklama girin. 
+Örneğin, "<i>Makale Dosyası</i>", "<i>Proje Dosyası</i>" veya "<i>Deney Verisi Okumaları</i>".</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.para1">Aşağıdaki listeden dosyanın biçimini seçin. Örneğin, "<i>Adobe PDF</i>" 
+veya "<i>Microsoft Word</i>." <strong>Eğer biçim listede yoksa</strong>, aşağıdaki giriş kutusu listesinde tanımlayın.</message>
 	<message key="xmlui.administrative.item.EditBitstreamForm.format_label">Seçilmiş Biçimler</message>
 	<message key="xmlui.administrative.item.EditBitstreamForm.format_default">Biçim listede yoktur</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.para2">Eğer biçim yukarıdaki listede yoksa, <strong>"biçim listede yoktur"</strong> seçeneğini seçiniz ve aşağıdaki kutuda dosyanın biçimini tanımlayınız.</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.para2">Eğer biçim yukarıdaki listede yoksa, <strong>"biçim listede 
+yoktur"</strong> seçeneğini seçiniz ve aşağıdaki kutuda dosyanın biçimini tanımlayınız.</message>
 	<message key="xmlui.administrative.item.EditBitstreamForm.user_label">Diğer Biçim</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.user_help">Dosyayı oluşturmak için kullanılan uygulama ve sürüm numarası (Örneğin, "<i>ACMESoft SuperApp sürüm 1.5</i>").</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.user_help">Dosyayı oluşturmak için kullanılan uygulama ve sürüm numarası (Örneğin, 
+"<i>ACMESoft SuperApp sürüm 1.5</i>").</message>
     <message key="xmlui.administrative.item.EditBitstreamForm.name_label">Dosya Adı</message>
-    <message key="xmlui.administrative.item.EditBitstreamForm.name_help">Bu veri akışı için dosya adını değiştir. Bu ekranda veri akış URL'sini değiştirebileceğinizi unutmayın, ancak eski bağlantıların sıra kimliği değişmeyecektir.</message>
+    <message key="xmlui.administrative.item.EditBitstreamForm.name_help">Bu veri akışı için dosya adını değiştir. Bu ekranda veri akış URL'sini 
+değiştirebileceğinizi unutmayın, ancak eski bağlantıların sıra kimliği değişmeyecektir.</message>
 
 	<!-- org.dspace.app.xmlui.administrative.item.EditItemBitstreamsForm -->
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.title">Veri Dosyası Öğesi</message>
@@ -1573,8 +1734,10 @@
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.submit_add">Yeni veri dosyası ekle</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.submit_delete">Veri Dosyası Sil</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.submit_reorder">Veri dosyası sırasını güncelle</message>
-	<message key="xmlui.administrative.item.EditItemBitstreamsForm.no_upload">Yeni veri dosyası yüklemek için en az bir paket üzerinde EKLEME &amp; YAZMA yetkisi gerekir.</message>
-	<message key="xmlui.administrative.item.EditItemBitstreamsForm.no_remove">Sadece Sistem Yöneticileri veri akışlarını/dosyaları silebilir.</message>
+	<message key="xmlui.administrative.item.EditItemBitstreamsForm.no_upload">Yeni veri dosyası yüklemek için en az bir paket üzerinde EKLEME 
+&amp; YAZMA yetkisi gerekir.</message>
+	<message key="xmlui.administrative.item.EditItemBitstreamsForm.no_remove">Sadece Sistem Yöneticileri veri akışlarını/dosyaları 
+silebilir.</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.previous_order">Önceki:</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.order_up">Yukarı taşı</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.order_down">Aşağı taşı</message>
@@ -1587,7 +1750,9 @@
 	<message key="xmlui.administrative.item.EditItemMetadataForm.value_label">Değer</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.lang_label">Dil</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.submit_add">Yeni üst veri ekle</message>
-	<message key="xmlui.administrative.item.EditItemMetadataForm.para1"><strong>Lütfen not ediniz</strong>: Bu değişiklikler hiçbir şekilde doğrulanamadı. Veriyi doğru biçimde girmekle sorumlusunuz. Biçimin ne olduğundan emin değilseniz lütfen değişiklik <strong>yapmayınız</strong>.</message>
+	<message key="xmlui.administrative.item.EditItemMetadataForm.para1"><strong>Lütfen not ediniz</strong>: Bu değişiklikler hiçbir şekilde 
+doğrulanamadı. Veriyi doğru biçimde girmekle sorumlusunuz. Biçimin ne olduğundan emin değilseniz lütfen değişiklik 
+<strong>yapmayınız</strong>.</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.head2">Üst veri</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.column1">Sil</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.column2">Ad</message>
@@ -1597,7 +1762,9 @@
 	<!-- org.dspace.app.xmlui.administrative.item.EditItemStatusForm -->
 	<message key="xmlui.administrative.item.EditItemStatusForm.title">Öğe Durumu</message>
 	<message key="xmlui.administrative.item.EditItemStatusForm.trail">Öğe durumu</message>
-	<message key="xmlui.administrative.item.EditItemStatusForm.para1">Öğe yönetim sayfasına hoş geldiniz. Burada, öğeyi geri çekebilir, yeniden yükleyebilir, taşıyabilir veya silebilirsiniz. Ayrıca diğer sekmelerde güncelleme yapabilir, yeni üst veri ile veri dosyası ekleyebilirsiniz</message>
+	<message key="xmlui.administrative.item.EditItemStatusForm.para1">Öğe yönetim sayfasına hoş geldiniz. Burada, öğeyi geri çekebilir, yeniden 
+yükleyebilir, taşıyabilir veya silebilirsiniz. Ayrıca diğer sekmelerde güncelleme yapabilir, yeni üst veri ile veri dosyası 
+ekleyebilirsiniz</message>
 	<message key="xmlui.administrative.item.EditItemStatusForm.label_id">Öğe Dahili Kimliği (ID)</message>
 	<message key="xmlui.administrative.item.EditItemStatusForm.label_handle">Kulp</message>
 	<message key="xmlui.administrative.item.EditItemStatusForm.label_modified">Son Değiştirme</message>
@@ -1653,7 +1820,8 @@
         <message key="xmlui.administrative.metadataimport.flow.upload_badelement">Başlıkta bilinmeyen üst veri öğesi</message>
         <message key="xmlui.administrative.metadataimport.flow.import_successful">Veri alma başarılı</message>
         <message key="xmlui.administrative.metadataimport.flow.import_failed">Veri alma başarısız</message>
-        <message key="xmlui.administrative.metadataimport.flow.over_limit">Değişiklik sayısı izin verilen sınırı aşıyor. Sınır değişiklikleri "dspace.cfg" dosyası içindeki "bulkedit.gui-item-limit" satırında değiştirilebilir.</message>
+        <message key="xmlui.administrative.metadataimport.flow.over_limit">Değişiklik sayısı izin verilen sınırı aşıyor. Sınır değişiklikleri 
+"dspace.cfg" dosyası içindeki "bulkedit.gui-item-limit" satırında değiştirilebilir.</message>
 
         <!-- org.dspace.app.xmlui.administrative.metadataimport.MetadataImportConfirm -->
         <message key="xmlui.administrative.metadataimport.MetadataImportMain.submit_upload">CSV Yükle</message>
@@ -1680,7 +1848,8 @@
         <message key="xmlui.administrative.metadataimport.MetadataImportUpload.collection_unmapped">Koleksiyondan eşlemeyi kaldır</message>
         <message key="xmlui.administrative.metadataimport.MetadataImportUpload.changes_pending">Öğe için beklemeyi değiştir</message>
         <message key="xmlui.administrative.metadataimport.MetadataImportUpload.submit_confirm">Değişikliği uygula</message>
-        <message key="xmlui.administrative.metadataimport.MetadataImportUpload.hint">Bekleyen değişiklikler inceleme için aşağıda listelenmiştir.</message>
+        <message key="xmlui.administrative.metadataimport.MetadataImportUpload.hint">Bekleyen değişiklikler inceleme için aşağıda 
+listelenmiştir.</message>
         <message key="xmlui.administrative.metadataimport.MetadataImportUpload.item_delete">Öğe Çıkar</message>
         <message key="xmlui.administrative.metadataimport.MetadataImportUpload.item_withdraw">Öğeyi Geri Çek</message>
         <message key="xmlui.administrative.metadataimport.MetadataImportUpload.item_reinstate">Öğeyi Yeniden Yükle</message>
@@ -1692,9 +1861,12 @@
 	<message key="xmlui.administrative.mapper.MapperMain.title">Öğe Eşleyici</message>
 	<message key="xmlui.administrative.mapper.MapperMain.head1">Öğe Eşleyici - Diğer koleksiyonlardan öğeleri eşle</message>
 	<message key="xmlui.administrative.mapper.MapperMain.para1">Koleksiyon: "<strong>{0}</strong>"</message>
-	<message key="xmlui.administrative.mapper.MapperMain.para2">Bu öğe eşleme aracıdır ve koleksiyon yöneticilerinin diğer koleksiyonlardan bu koleksiyona öğe eşlemelerine izin verir. Diğer koleksiyonlardan öğe arayabilir ve şu anda eşlenen öğelerin listesine göz atarak onları eşleyebilirsiniz.</message>
+	<message key="xmlui.administrative.mapper.MapperMain.para2">Bu öğe eşleme aracıdır ve koleksiyon yöneticilerinin diğer koleksiyonlardan bu 
+koleksiyona öğe eşlemelerine izin verir. Diğer koleksiyonlardan öğe arayabilir ve şu anda eşlenen öğelerin listesine göz atarak onları 
+eşleyebilirsiniz.</message>
 	<message key="xmlui.administrative.mapper.MapperMain.stat_label">İstatistikler</message>
-	<message key="xmlui.administrative.mapper.MapperMain.stat_info">Bu koleksiyondaki <strong>{1}</strong> öğe diğer <strong>{0}</strong> koleksiyonda eşlendi.</message>
+	<message key="xmlui.administrative.mapper.MapperMain.stat_info">Bu koleksiyondaki <strong>{1}</strong> öğe diğer <strong>{0}</strong> 
+koleksiyonda eşlendi.</message>
 	<message key="xmlui.administrative.mapper.MapperMain.search_label">Ara</message>
 	<message key="xmlui.administrative.mapper.MapperMain.submit_search">Öğe Ara</message>
 	<message key="xmlui.administrative.mapper.MapperMain.submit_browse">Eşlenmiş Öğeler</message>
@@ -1719,7 +1891,8 @@
 	<message key="xmlui.administrative.mapper.BrowseItemForm.column2">Koleksiyon</message>
 	<message key="xmlui.administrative.mapper.BrowseItemForm.column3">Yazar</message>
 	<message key="xmlui.administrative.mapper.BrowseItemForm.column4">Başlık</message>
-	<message key="xmlui.administrative.mapper.BrowseItemForm.no_remove">Bu koleksiyondan eşlemeleri kaldırabilmek için öncelikle koleksiyondaki yetkileri KALDIRMANIZ gerekli.</message>
+	<message key="xmlui.administrative.mapper.BrowseItemForm.no_remove">Bu koleksiyondan eşlemeleri kaldırabilmek için öncelikle koleksiyondaki 
+yetkileri KALDIRMANIZ gerekli.</message>
 
 	<!-- General tags for collection management -->
 	<message key="xmlui.administrative.collection.general.collection_trail">Koleksiyonlar</message>
@@ -1735,15 +1908,26 @@
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.no_role">hiçbiri</message>
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.create">Oluştur...</message>
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.restrict">Kısıtlama...</message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_admins">Koleksiyon yöneticileri, bu koleksiyona kimin öğe gönderisi yapabileceğine, üst veride düzeltme gerçekleştirebileceğine (gönderiden sonra), diğer koleksiyonlarda var olan öğelere eşleme ekleyebileceğine karar verir (ilgili koleksiyon için yetkilendirme konusudur).</message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_wf_step1">Gelen gönderilerin kabul veya reddi için bu adımlardan kişiler sorumludur. Ancak gönderilerin üst verilerini düzenleyemezler.</message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_wf_step2">Gelen gönderilerin üst verilerinin düzenlenmesi, kabul ve reddi için bu adımlardan kişiler sorumludur. </message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_wf_step3">Gelen gönderilerin üst verilerinin düzenlenmesi için bu adımlardan kişiler sorumludur. Ancak reddedemezler.</message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_submitters">Bu koleksiyona yeni öğe gönderisini atanan e-Kişi ve Gruplar yapabilir.</message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_default_read">Bu koleksiyona gönderilen yeni öğeleri E-Kişi ve Gruplar okuyabilir. Bu değişiklikler geriye dönük değildir. Sistemdeki mevcut öğeler, eklenme tarihlerine göre E-Kişi ve Gruplar tarafından okuma yetkisiyle görülebilir.</message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.default_read_custom">Bu koleksiyon kullanıcıları özel erişim ayarları kullanır</message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.default_read_anonymous">Gelen öğe ile veri akışları için okuma standart Anonim seçeneğiyle ayarlanmıştır.</message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.edit_authorization">Yetkilendirme politikalarını doğrudan düzenle.</message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_admins">Koleksiyon yöneticileri, bu koleksiyona kimin öğe gönderisi 
+yapabileceğine, üst veride düzeltme gerçekleştirebileceğine (gönderiden sonra), diğer koleksiyonlarda var olan öğelere eşleme ekleyebileceğine karar 
+verir (ilgili koleksiyon için yetkilendirme konusudur).</message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_wf_step1">Gelen gönderilerin kabul veya reddi için bu adımlardan 
+kişiler sorumludur. Ancak gönderilerin üst verilerini düzenleyemezler.</message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_wf_step2">Gelen gönderilerin üst verilerinin düzenlenmesi, kabul ve 
+reddi için bu adımlardan kişiler sorumludur. </message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_wf_step3">Gelen gönderilerin üst verilerinin düzenlenmesi için bu 
+adımlardan kişiler sorumludur. Ancak reddedemezler.</message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_submitters">Bu koleksiyona yeni öğe gönderisini atanan e-Kişi ve 
+Gruplar yapabilir.</message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.help_default_read">Bu koleksiyona gönderilen yeni öğeleri E-Kişi ve 
+Gruplar okuyabilir. Bu değişiklikler geriye dönük değildir. Sistemdeki mevcut öğeler, eklenme tarihlerine göre E-Kişi ve Gruplar tarafından okuma 
+yetkisiyle görülebilir.</message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.default_read_custom">Bu koleksiyon kullanıcıları özel erişim ayarları 
+kullanır</message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.default_read_anonymous">Gelen öğe ile veri akışları için okuma standart 
+Anonim seçeneğiyle ayarlanmıştır.</message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.edit_authorization">Yetkilendirme politikalarını doğrudan 
+düzenle.</message>
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.role_name">Rol</message>
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.role_group">İlişkili Grup</message>
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.role_buttons">  </message>
@@ -1755,7 +1939,8 @@
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.label_submitters">Gönderici</message>
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.label_default_read">Varsayılan okuma erişimi</message>
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.sysadmins_only"><nobr>(sadece sistem yöneticileri)</nobr></message>
-	<message key="xmlui.administrative.collection.AssignCollectionRoles.repository_role"><br/>(Dijital arşiv düzey grubu, sadece sistem yöneticileri)</message>
+	<message key="xmlui.administrative.collection.AssignCollectionRoles.repository_role"><br/>(Dijital arşiv düzey grubu, sadece sistem 
+yöneticileri)</message>
 	<message key="xmlui.administrative.collection.AssignCollectionRoles.not_allowed"><nobr>(bu yapılandırma için yetkiniz yok)</nobr></message>
 
         <!-- org.dspace.app.xmlui.administrative.collection.CurateCollectionForm.java -->
@@ -1768,8 +1953,10 @@
 	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.title">Silmeyi Onayla</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.trail">Onayla</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.main_head">Koleksiyon için silmeyi onayla: {0}</message>
-	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.main_para">{0} adlı koleksiyonu silmek istediğinizden emin misiniz? Silinecek koleksiyon: </message>
-	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.confirm_item1">Bu koleksiyondaki hiçbir öğe ve tamamlanmamış gönderi diğer koleksiyonların içeriğinde yoktur.</message>
+	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.main_para">{0} adlı koleksiyonu silmek istediğinizden emin misiniz? 
+Silinecek koleksiyon: </message>
+	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.confirm_item1">Bu koleksiyondaki hiçbir öğe ve tamamlanmamış gönderi 
+diğer koleksiyonların içeriğinde yoktur.</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.confirm_item2">Bu öğelerin içeriği</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.confirm_item3">İlişkili tüm yetkilendirme ilkeleri.</message>
 
@@ -1777,8 +1964,11 @@
 	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.title">Rol silmeyi onayla</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.trail">Onayla</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.main_head">{0} rolü için silmeyi onayla</message>
-	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.main_para_read">Bu rolü silmek istediğinizden emin misiniz? Grubun silinmesi, bu koleksiyona gönderilen tüm öğeler için tüm kullanıcılara okuma yetkisi verir. Bu değişik geriye dönük değildir. Sistemde mevcut olan öğeler, rolü olan kullanıcılar için sınırlı olacaktır.</message>
-	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.main_para">Bu rolü silmek istediğinizden emin misiniz? {0} grubuna yapılan tüm değişiklikler ve özelleştirmeler kaybolur ve yeniden oluşturulması gerekir.</message>
+	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.main_para_read">Bu rolü silmek istediğinizden emin misiniz? Grubun 
+silinmesi, bu koleksiyona gönderilen tüm öğeler için tüm kullanıcılara okuma yetkisi verir. Bu değişik geriye dönük değildir. Sistemde mevcut olan 
+öğeler, rolü olan kullanıcılar için sınırlı olacaktır.</message>
+	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.main_para">Bu rolü silmek istediğinizden emin misiniz? {0} grubuna 
+yapılan tüm değişiklikler ve özelleştirmeler kaybolur ve yeniden oluşturulması gerekir.</message>
 
 	<!-- org.dspace.app.xmlui.administrative.collection.EditCollectionMetadataForm.java -->
 	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.title">Koleksiyon Üst Verisini Düzenle</message>
@@ -1813,7 +2003,8 @@
 	<message key="xmlui.administrative.collection.GeneralCollectionHarvestingForm.options_harvest">Kaynak İçeriği</message>
 	<message key="xmlui.administrative.collection.GeneralCollectionHarvestingForm.label_source">Kaynak içeriği</message>
 	<message key="xmlui.administrative.collection.GeneralCollectionHarvestingForm.source_normal">Bu standart bir DSpace koleksiyonudur</message>
-	<message key="xmlui.administrative.collection.GeneralCollectionHarvestingForm.source_harvested">Bu koleksiyon içeriği harici bir kaynaktan harmanlanarak oluşturulur.</message>
+	<message key="xmlui.administrative.collection.GeneralCollectionHarvestingForm.source_harvested">Bu koleksiyon içeriği harici bir kaynaktan 
+harmanlanarak oluşturulur.</message>
 	<message key="xmlui.administrative.collection.GeneralCollectionHarvestingForm.submit_save">Kaydet</message>
 
 	<!-- org.dspace.app.xmlui.administrative.collection.SetupCollectionHarvestingForm.java -->
@@ -1822,14 +2013,20 @@
 	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.label_oai_provider">OAI Sağlayıcı</message>
 	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.label_setid">OAI Set Kimliği (ID)</message>
 	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.label_metadata_format">Üst Veri Biçimi</message>
-	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.help_oaiurl">Hedef dijital arşiv OAI sağlayıcısı servisinin URL'si</message>
-	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.error_oaiurl">Hedef koleksiyonun düzenleme kimliğini (ID) vermelisiniz.</message>
-	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.help_oaisetid">Hedef koleksiyonu belirtmek için OAI sağlayıcı tarafından kullanılan kalıcı tanımlayıcı</message>
-	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.error_oaisetid">Hedef koleksiyon için bir set kimliği (ID) vermelisiniz.</message>
+	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.help_oaiurl">Hedef dijital arşiv OAI sağlayıcısı servisinin 
+URL'si</message>
+	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.error_oaiurl">Hedef koleksiyonun düzenleme kimliğini (ID) 
+vermelisiniz.</message>
+	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.help_oaisetid">Hedef koleksiyonu belirtmek için OAI sağlayıcı 
+tarafından kullanılan kalıcı tanımlayıcı</message>
+	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.error_oaisetid">Hedef koleksiyon için bir set kimliği (ID) 
+vermelisiniz.</message>
 	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.label_harvest_level">İçerik Harmanlanıyor</message>
 	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.option_md_only">Sadece üst veri harmanla.</message>
-	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.option_md_and_ref">Üst veri ve veri dosyası için referansları harmanla (ORE desteği gereklidir).</message>
-	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.option_md_and_bs">Üst veri ve veri akışlarını harmanla (ORE desteği gereklidir).</message>
+	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.option_md_and_ref">Üst veri ve veri dosyası için referansları 
+harmanla (ORE desteği gereklidir).</message>
+	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.option_md_and_bs">Üst veri ve veri akışlarını harmanla (ORE 
+desteği gereklidir).</message>
 	<message key="xmlui.administrative.collection.SetupCollectionHarvestingForm.submit_test">Ayarları Test Et</message>
 
 	<!-- org.dspace.app.xmlui.administrative.collection.EditCollectionHarvestingForm.java -->
@@ -1843,15 +2040,21 @@
 	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.label_harvest_status">Güncel harmanlama durumu</message>
 	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.harvest_status_ready">Koleksiyon harmanlamaya hazır</message>
 	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.harvest_status_busy">Koleksiyon şu anda harmanlanıyor</message>
-	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.harvest_status_queued">Koleksiyon harmanlanmak üzere kuyrukta bekliyor</message>
-	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.harvest_status_oai_error">Son harmanlama sırasında OAI hatası oluştu.</message>
-	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.harvest_status_unknown_error">Son harmanlama sırasında beklenmeyen bir hata oluştu</message>
+	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.harvest_status_queued">Koleksiyon harmanlanmak üzere kuyrukta 
+bekliyor</message>
+	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.harvest_status_oai_error">Son harmanlama sırasında OAI hatası 
+oluştu.</message>
+	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.harvest_status_unknown_error">Son harmanlama sırasında 
+beklenmeyen bir hata oluştu</message>
 	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.option_md_only">Sadece üst veriyi harmanla.</message>
-	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.option_md_and_ref">Üst veri ve referans veri akışını harmanla.</message>
-	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.option_md_and_bs">Üst veri ve veri akışlarını (tüm çoğaltmalar dahil) harmanla.</message>
+	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.option_md_and_ref">Üst veri ve referans veri akışını 
+harmanla.</message>
+	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.option_md_and_bs">Üst veri ve veri akışlarını (tüm çoğaltmalar 
+dahil) harmanla.</message>
 	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.submit_change_settings">Ayarları Değiştir</message>
 	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.submit_import_now">Veri Al</message>
-	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.submit_reimport_collection">Sıfırla ve koleksiyonu yeniden içeri aktar</message>
+	<message key="xmlui.administrative.collection.EditCollectionHarvestingForm.submit_reimport_collection">Sıfırla ve koleksiyonu yeniden içeri 
+aktar</message>
 
 	<message key="xmlui.administrative.ControlPanel.option_harvest">Harmanlama</message>
 	<message key="xmlui.administrative.ControlPanel.harvest_scheduler_head">Harmanlama Takvimi Kontrolü</message>
@@ -1886,10 +2089,16 @@
 	<message key="xmlui.administrative.community.AssignCommunityRoles.main_head">Bölüm Düzenle: {0}</message>
 	<message key="xmlui.administrative.community.AssignCommunityRoles.no_role">hiçbiri</message>
 	<message key="xmlui.administrative.community.AssignCommunityRoles.create">Oluştur...</message>
-	<message key="xmlui.administrative.community.AssignCommunityRoles.help_admins">Bölüm yöneticileri alt-bölümler veya koleksiyonlar oluşturabilir. Bölüm yöneticileri alt-bölüm ve koleksiyonları yönetebilir veya yönetici atayabilir. Ayrıca, kimin alt koleksiyonlara öğe gönderisi yapabileceğine, öğe üst verisini düzenleyebileceğine (gönderiden sonra) ve diğer koleksiyonlarda var olan öğelere eşleme ekleyebileceğine karar verebilir (ilgili koleksiyon için yetkilendirme konusudur).</message>
-	<message key="xmlui.administrative.community.AssignCommunityRoles.default_read_custom">Bu topluluk özel varsayılan erişim ayarlarını kullanır.</message>
-	<message key="xmlui.administrative.community.AssignCommunityRoles.default_read_anonymous">Gelen öğe ve veri akışları için okuma varsayılan olarak Anonim seçeneğiyle düzenlenmiştir.</message>
-	<message key="xmlui.administrative.community.AssignCommunityRoles.edit_authorizations">Doğrudan yetkilendirme politikası düzenleme.</message>
+	<message key="xmlui.administrative.community.AssignCommunityRoles.help_admins">Bölüm yöneticileri alt-bölümler veya koleksiyonlar 
+oluşturabilir. Bölüm yöneticileri alt-bölüm ve koleksiyonları yönetebilir veya yönetici atayabilir. Ayrıca, kimin alt koleksiyonlara öğe gönderisi 
+yapabileceğine, öğe üst verisini düzenleyebileceğine (gönderiden sonra) ve diğer koleksiyonlarda var olan öğelere eşleme ekleyebileceğine karar 
+verebilir (ilgili koleksiyon için yetkilendirme konusudur).</message>
+	<message key="xmlui.administrative.community.AssignCommunityRoles.default_read_custom">Bu topluluk özel varsayılan erişim ayarlarını 
+kullanır.</message>
+	<message key="xmlui.administrative.community.AssignCommunityRoles.default_read_anonymous">Gelen öğe ve veri akışları için okuma varsayılan 
+olarak Anonim seçeneğiyle düzenlenmiştir.</message>
+	<message key="xmlui.administrative.community.AssignCommunityRoles.edit_authorizations">Doğrudan yetkilendirme politikası 
+düzenleme.</message>
 	<message key="xmlui.administrative.community.AssignCommunityRoles.role_name">Rol</message>
 	<message key="xmlui.administrative.community.AssignCommunityRoles.role_group">İlişkili Gurup</message>
 	<message key="xmlui.administrative.community.AssignCommunityRoles.role_buttons">  </message>
@@ -1906,9 +2115,12 @@
 	<message key="xmlui.administrative.community.DeleteCommunityConfirm.title">Silmeyi Onayla</message>
 	<message key="xmlui.administrative.community.DeleteCommunityConfirm.trail">Onayla</message>
 	<message key="xmlui.administrative.community.DeleteCommunityConfirm.main_head">{0} numaralı bölüm için silmeyi onayla</message>
-	<message key="xmlui.administrative.community.DeleteCommunityConfirm.main_para">{0} numaralı bölümü silmek istediğinizden emin misiniz? Silinecek bölüm:</message>
-	<message key="xmlui.administrative.community.DeleteCommunityConfirm.confirm_item1">Bu bölümdeki koleksiyonların hiçbiri diğer bölümlerin içeriğinde yoktur.</message>
-	<message key="xmlui.administrative.community.DeleteCommunityConfirm.confirm_item2">Bu bölümdeki hiçbir öğe ve tamamlanmamış gönderi diğer bölümlerin içeriğinde yoktur.</message>
+	<message key="xmlui.administrative.community.DeleteCommunityConfirm.main_para">{0} numaralı bölümü silmek istediğinizden emin misiniz? 
+Silinecek bölüm:</message>
+	<message key="xmlui.administrative.community.DeleteCommunityConfirm.confirm_item1">Bu bölümdeki koleksiyonların hiçbiri diğer bölümlerin 
+içeriğinde yoktur.</message>
+	<message key="xmlui.administrative.community.DeleteCommunityConfirm.confirm_item2">Bu bölümdeki hiçbir öğe ve tamamlanmamış gönderi diğer 
+bölümlerin içeriğinde yoktur.</message>
 	<message key="xmlui.administrative.community.DeleteCommunityConfirm.confirm_item3">Bu öğelerin içeriği</message>
 	<message key="xmlui.administrative.community.DeleteCommunityConfirm.confirm_item4">Tüm ilişkilendirilmiş yetkili politikalar</message>
 
@@ -1916,7 +2128,8 @@
 	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.title">Rol silmeyi onayla</message>
 	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.trail">Onayla</message>
 	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.main_head">{0} adlı rol için silmeyi onayla</message>
-	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.main_para">Bu rolü silmek istediğinizden emin misiniz. {0} adlı grup için yapılan tüm değişiklik ve özelleştirmeler kaybedilecek ve yeniden oluşturulması gerekecek.</message>
+	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.main_para">Bu rolü silmek istediğinizden emin misiniz. {0} adlı grup 
+için yapılan tüm değişiklik ve özelleştirmeler kaybedilecek ve yeniden oluşturulması gerekecek.</message>
 
 	<!-- org.dspace.app.xmlui.administrative.community.EditCommunityMetadataForm.java -->
 	<message key="xmlui.administrative.community.EditCommunityMetadataForm.title">Bölüm Üst Verisini Düzenle</message>
@@ -1988,9 +2201,11 @@
 	<message key="xmlui.administrative.ControlPanel.mail_feedback_recipient">Geri Bildirim Alıcısı</message>
 	<message key="xmlui.administrative.ControlPanel.mail_admin">Genel Site Yöneticisi E-Postası</message>
 	<message key="xmlui.administrative.ControlPanel.alerts_head">Genel Sistem Uyarıları</message>
-	<message key="xmlui.administrative.ControlPanel.alerts_warning"><strong>Düzenlenmiş sistemler için uyarı</strong>: Sistem genelinde uyarılar Aktif edildiğinde düğüm için etkilidir. Düğümde her bir aktivitenin uyarı komutu alması gereklidir.</message>
+	<message key="xmlui.administrative.ControlPanel.alerts_warning"><strong>Düzenlenmiş sistemler için uyarı</strong>: Sistem genelinde uyarılar 
+Aktif edildiğinde düğüm için etkilidir. Düğümde her bir aktivitenin uyarı komutu alması gereklidir.</message>
 	<message key="xmlui.administrative.ControlPanel.alerts_message_label">Uyarı mesajı</message>
-	<message key="xmlui.administrative.ControlPanel.alerts_message_default">Sistem düzenli bakım için kapatılacak. Lütfen çalışmanızı kaydedin ve çıkış yapın.</message>
+	<message key="xmlui.administrative.ControlPanel.alerts_message_default">Sistem düzenli bakım için kapatılacak. Lütfen çalışmanızı kaydedin 
+ve çıkış yapın.</message>
 	<message key="xmlui.administrative.ControlPanel.alerts_countdown_label">Geri Sayım</message>
 	<message key="xmlui.administrative.ControlPanel.alerts_countdown_none">Geri sayma zamanlaması yok</message>
 	<message key="xmlui.administrative.ControlPanel.alerts_countdown_5">5 dakika</message>
@@ -2001,8 +2216,10 @@
 	<message key="xmlui.administrative.ControlPanel.alerts_session_label">Oturumu yönet</message>
 	<message key="xmlui.administrative.ControlPanel.alerts_session_all_sessions">Yetkili oturumları sürdür</message>
 	<message key="xmlui.administrative.ControlPanel.alerts_session_current_sessions">Yetki kısıtla, ancak güncel oturumları sürdür.</message>
-	<message key="xmlui.administrative.ControlPanel.alerts_session_only_administrative_sessions">Yetki kısıtla ve güncel oturumları kapat</message>
-	<message key="xmlui.administrative.ControlPanel.alerts_session_note"><strong>Not:</strong> Site yöneticileri oturum yönetiminden muaftır.</message>
+	<message key="xmlui.administrative.ControlPanel.alerts_session_only_administrative_sessions">Yetki kısıtla ve güncel oturumları 
+kapat</message>
+	<message key="xmlui.administrative.ControlPanel.alerts_session_note"><strong>Not:</strong> Site yöneticileri oturum yönetiminden 
+muaftır.</message>
 	<message key="xmlui.administrative.ControlPanel.alerts_submit_activate">Aktif</message>
 	<message key="xmlui.administrative.ControlPanel.alerts_submit_deactivate">Pasif</message>
 	<message key="xmlui.administrative.ControlPanel.activity_head">Güncel Etkinlik (en fazla {0} sayfa)</message>
@@ -2039,7 +2256,8 @@
 	<message key="xmlui.administrative.NotAuthorized.title">Yetkilendirilmemiş</message>
 	<message key="xmlui.administrative.NotAuthorized.trail">Yetkilendirilmemiş</message>
 	<message key="xmlui.administrative.NotAuthorized.head">Yetersiz ayrıcalıklar</message>
-	<message key="xmlui.administrative.NotAuthorized.para1a">İstediğiniz eylemi sürdürmek için hesabınız yeterli ayrıcalığa sahip değil. Eğer bunun bir hata olduğunu düşünüyorsanız veya ayrıcalıklarınız hakkında sorunuz var ise lütfen site yöneticinizle temasa geçiniz.</message>
+	<message key="xmlui.administrative.NotAuthorized.para1a">İstediğiniz eylemi sürdürmek için hesabınız yeterli ayrıcalığa sahip değil. Eğer 
+bunun bir hata olduğunu düşünüyorsanız veya ayrıcalıklarınız hakkında sorunuz var ise lütfen site yöneticinizle temasa geçiniz.</message>
 	<message key="xmlui.administrative.NotAuthorized.para1b">sistem yöneticileri</message>
 	<message key="xmlui.administrative.NotAuthorized.para1c">.</message>
 	<message key="xmlui.administrative.NotAuthorized.para2">Başka bir kullanıcı olarak giriş yap</message>
@@ -2048,7 +2266,8 @@
         <message key="xmlui.administrative.CurateForm.title">Sistem Yöneticisi Görevleri</message>
         <message key="xmlui.administrative.CurateForm.trail">Yönetici Görevleri</message>
         <message key="xmlui.administrative.CurateForm.object_label_name">DSpace Nesne Tutamacı</message>
-        <message key="xmlui.administrative.CurateForm.object_hint">İpucu: Sitenin tamamında bir görevi çalıştırmak için [kulp-önekinizi]/0 girin (tüm görevler bu özelliği desteklemiyor olabilir).</message>
+        <message key="xmlui.administrative.CurateForm.object_hint">İpucu: Sitenin tamamında bir görevi çalıştırmak için [kulp-önekinizi]/0 girin 
+(tüm görevler bu özelliği desteklemiyor olabilir).</message>
         <message key="xmlui.administrative.CurateForm.task_label_name">Görev</message>
     <!-- Used by Curate<DSO>Form classes also -->
         <message key="xmlui.administrative.CurateForm.taskgroup_label_name">Aşağıdaki gruplardan seçin</message>
@@ -2081,7 +2300,8 @@
     <message key="xmlui.statistics.trail-search">Arama İstatistikleri</message>
     <message key="xmlui.statistics.trail-workflow">İş Akışı İstatistikleri</message>
     <message key="xmlui.statistics.workflow.no-results">Seçilen dönem için iş akışı istatistiği yoktur.</message>
-    <message key="xmlui.statistics.workflow.error">İş akışı istatistiği oluşturulurken bir hata oluştu, lütfen daha sonra yeniden deneyiniz.</message>
+    <message key="xmlui.statistics.workflow.error">İş akışı istatistiği oluşturulurken bir hata oluştu, lütfen daha sonra yeniden 
+deneyiniz.</message>
     <message key="xmlui.statistics.workflow.head">İş Akışı İstatistikleri</message>
     <message key="xmlui.statistics.workflow.head-dso">{0} İçin İş Akışı İstatistikleri</message>
 
@@ -2116,10 +2336,14 @@
     <message key="xmlui.statistics.display.table.workflow.step.scoreReview.scoreReviewStep.claimaction">Puan Değerlendirme Havuzu</message>
     <message key="xmlui.statistics.display.table.workflow.step.scoreReview.scoreReviewStep.scorereviewaction">Puan Değerlendirme</message>
     <message key="xmlui.statistics.display.table.workflow.step.scoreReview.evaluationStep.evaluationaction">Puan Değerlendirme İncelemesi</message>
-    <message key="xmlui.statistics.display.table.workflow.step.scoreReview.evaluationStep.noUserSelectionAction">Puan Değerlendirme İncelemesi Konfigürasyonu</message>
-    <message key="xmlui.statistics.display.table.workflow.step.selectSingleReviewer.selectReviewerStep.claimaction">Tekil Kullanıcı Değerlendirme Havuzu</message>
-    <message key="xmlui.statistics.display.table.workflow.step.selectSingleReviewer.singleUserReviewStep.autoassignAction">Tekil Kullanıcı Otomatik Atama Eylemi</message>
-    <message key="xmlui.statistics.display.table.workflow.step.selectSingleReviewer.singleUserReviewStep.singleuserreviewaction">Tekil Kullanıcı Değerlendirme Eylemi</message>
+    <message key="xmlui.statistics.display.table.workflow.step.scoreReview.evaluationStep.noUserSelectionAction">Puan Değerlendirme İncelemesi 
+Konfigürasyonu</message>
+    <message key="xmlui.statistics.display.table.workflow.step.selectSingleReviewer.selectReviewerStep.claimaction">Tekil Kullanıcı Değerlendirme 
+Havuzu</message>
+    <message key="xmlui.statistics.display.table.workflow.step.selectSingleReviewer.singleUserReviewStep.autoassignAction">Tekil Kullanıcı Otomatik 
+Atama Eylemi</message>
+    <message key="xmlui.statistics.display.table.workflow.step.selectSingleReviewer.singleUserReviewStep.singleuserreviewaction">Tekil Kullanıcı 
+Değerlendirme Eylemi</message>
 
 
     <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -2283,7 +2507,8 @@
   <message key="xmlui.dri2xhtml.mimetype.application/vnd.oasis.opendocument.presentation">OpenOffice Impress</message>
   <message key="xmlui.dri2xhtml.mimetype.application/vnd.oasis.opendocument.spreadsheet">OpenOffice Calc</message>
   <message key="xmlui.dri2xhtml.mimetype.application/vnd.oasis.opendocument.text">OpenOffice Writer</message>
-  <message key="xmlui.dri2xhtml.mimetype.application/vnd.openxmlformats-officedocument.presentationml.presentation">Microsoft PowerPoint 2007</message>
+  <message key="xmlui.dri2xhtml.mimetype.application/vnd.openxmlformats-officedocument.presentationml.presentation">Microsoft PowerPoint 
+2007</message>
   <message key="xmlui.dri2xhtml.mimetype.application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">Microsoft Excel 2007</message>
   <message key="xmlui.dri2xhtml.mimetype.application/vnd.openxmlformats-officedocument.wordprocessingml.document">Microsoft Word 2007</message>
   <message key="xmlui.dri2xhtml.mimetype.application/vnd.sun.xml.calc">OpenOffice Calc (1.x)</message>
@@ -2346,10 +2571,13 @@
   <message key="xmlui.authority.confidence.description.cf_failed">Yetkiden dolayı dahili bir hata meydana geldi.</message>
   <message key="xmlui.authority.confidence.description.cf_notfound">Yetkide eşleşen cevaplar yoktur.</message>
   <message key="xmlui.authority.confidence.description.cf_ambiguous">Eşit geçerliliğin çoklu yetki eşleşmesi değeri var.</message>
-  <message key="xmlui.authority.confidence.description.cf_uncertain">Değer tekil ve geçerli ancak herhangi biri tarafından görülmedi ve kabul edilmedi, bu yüzden geçersiz.</message>
-  <message key="xmlui.authority.confidence.description.cf_accepted">Bu otorite değeri interaktif bir kullanıcı tarafından doğru olarak onaylandı.</message>
+  <message key="xmlui.authority.confidence.description.cf_uncertain">Değer tekil ve geçerli ancak herhangi biri tarafından görülmedi ve kabul 
+edilmedi, bu yüzden geçersiz.</message>
+  <message key="xmlui.authority.confidence.description.cf_accepted">Bu otorite değeri interaktif bir kullanıcı tarafından doğru olarak 
+onaylandı.</message>
   <!-- help message on "unlock" button in EditItemMetadata display -->
-  <message key="xmlui.authority.confidence.unlock.help">Elle düzenleme için yetki anahtarı değerini serbest bırak veya onu geçiş için tekrar kilitle.</message>
+  <message key="xmlui.authority.confidence.unlock.help">Elle düzenleme için yetki anahtarı değerini serbest bırak veya onu geçiş için tekrar 
+kilitle.</message>
 
   <!-- Choice Lookup popup window -->
   <!-- NOTE: These messages necessarily use a *different* format for
@@ -2378,7 +2606,8 @@
   <message key="xmlui.ChoiceLookupTransformer.field.dc_contributor_author.help.last">Soyadı, Ör. "Çelik"</message>
   <message key="xmlui.ChoiceLookupTransformer.field.dc_contributor_author.help.first">Ad(lar)ı, Ör. "Sönmez"</message>
   <message key="xmlui.ChoiceLookupTransformer.field.dc_contributor_author.title">LC İsim Otoritesi yazar arama</message>
-  <message key="xmlui.ChoiceLookupTransformer.field.dc_contributor_author.nonauthority">Yerel değer: "@1@" (otorite adlandırma içinde değil)</message>
+  <message key="xmlui.ChoiceLookupTransformer.field.dc_contributor_author.nonauthority">Yerel değer: "@1@" (otorite adlandırma içinde 
+değil)</message>
 
   <!-- mobile theme -->
   <message key="xmlui.mobile.home_mobile">Mobil DSpace</message>
@@ -2416,7 +2645,8 @@
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.trail">Silmeyi Onayla</message>
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.head1">Silmeyi Onayla</message>
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para1">Bu sürümleri silmek istediğinizden emin misiniz?</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para2">LÜTFEN NOT EDİN: Bu sürümleri silerseniz, ilişkili öğelere atık erişemezsiniz.</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para2">LÜTFEN NOT EDİN: Bu sürümleri silerseniz, ilişkili öğelere atık 
+erişemezsiniz.</message>
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column1">Sürüm</message>
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column2">Ürün</message>
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column3">Editör</message>
@@ -2449,11 +2679,14 @@
     <message key="xmlui.aspect.versioning.VersionHistoryForm.collection_admins_only">(yalnızca koleksiyon yöneticileri)</message>
 
     <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_head">Uyarı</message>
-    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_help">Kullandığınız ürün, bu ürünün son sürümü değil. Güncel sürüm şu adreste bulunabilir:</message>
+    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_help">Kullandığınız ürün, bu ürünün son sürümü değil. Güncel 
+sürüm şu adreste bulunabilir:</message>
     <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_head">Uyarı</message>
-    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_help">İş Akışında bu ürünün daha yeni bir sürümü  bulunmaktadır.</message>
+    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_help">İş Akışında bu ürünün daha yeni bir sürümü  
+bulunmaktadır.</message>
 
-    <message key="xmlui.aspect.sherpa.submission.consult">Dergi veya yayıncıların kişisel arşivleme ve telif hakları ile ilgili politikalarını görmek için şu adrese başvur; <a href="http://www.sherpa.ac.uk/">SHERPA/RoMEO</a>.</message>
+    <message key="xmlui.aspect.sherpa.submission.consult">Dergi veya yayıncıların kişisel arşivleme ve telif hakları ile ilgili politikalarını 
+görmek için şu adrese başvur; <a href="http://www.sherpa.ac.uk/">SHERPA/RoMEO</a>.</message>
     <message key="xmlui.aspect.sherpa.submission.title">Yayıncı bilgisi</message>
     <message key="xmlui.aspect.sherpa.submission.journal">Dergi: </message>
     <message key="xmlui.aspect.sherpa.submission.publisher">Yayıncı bilgisi: </message>
@@ -2478,8 +2711,10 @@
 
     <message key="xmlui.mirage2.forms.instancedCompositeFields.add">Ekle</message>
     <message key="xmlui.mirage2.forms.instancedCompositeFields.remove">Kaldır</message>
-	<message key="xmlui.mirage2.forms.instancedCompositeFields.noSuggestionError">HATA: Giriş alanı ile "önerilen" (otomatik tamamlama) seçenek davranışı Karma (e.g. "isim") alanlar için uygulanmaz.</message>
-    <message key="xmlui.mirage2.forms.nonInstancedCompositeFields.noSuggestionError">HATA: Giriş alanı ile "önerilen" (otomatik tamamlama) seçenek davranışı Karma (e.g. "isim") alanlar için uygulanmaz.</message>
+	<message key="xmlui.mirage2.forms.instancedCompositeFields.noSuggestionError">HATA: Giriş alanı ile "önerilen" (otomatik tamamlama) seçenek 
+davranışı Karma (e.g. "isim") alanlar için uygulanmaz.</message>
+    <message key="xmlui.mirage2.forms.nonInstancedCompositeFields.noSuggestionError">HATA: Giriş alanı ile "önerilen" (otomatik tamamlama) seçenek 
+davranışı Karma (e.g. "isim") alanlar için uygulanmaz.</message>
     <message key="xmlui.mirage2.forms.nonCompositeFieldSet.add">Ekle</message>
     <message key="xmlui.mirage2.forms.nonCompositeFieldSet.remove">Kaldır</message>
 
@@ -2487,7 +2722,10 @@
 	<message key="xmlui.mirage2.page-structure.toggleNavigation">Geçiş Yönlendirmesi</message>
 
     <message key="xmlui.mirage2.page-structure.heroUnit.title">Kurumsal Arşiv Hakkında</message>
-   <message key="xmlui.mirage2.page-structure.heroUnit.content">Bu sayfaya kendi içeriğinizi eklemek için webapps/xmlui/themes/Mirage2/lib/xsl/core/page-structure.xsl dosyasında düzenleme yapın ve kendi içeriğinizi başlığa, adreslere ve gövdeye ekleyin. Daha fazla sayfa eklemek isterseniz, ek olarak bir xsl:when bloğu yaratmanız ve eklediğiniz sayfanın istek adresini (request-uri) eşlemeniz gerekir. Şu halde, sadece page/ URI önekinin altında XSL düzenleme yoluyla oluşturulan sabit sayfalar kullanılabilir.</message>
+   <message key="xmlui.mirage2.page-structure.heroUnit.content">Bu sayfaya kendi içeriğinizi eklemek için 
+webapps/xmlui/themes/Mirage2/lib/xsl/core/page-structure.xsl dosyasında düzenleme yapın ve kendi içeriğinizi başlığa, adreslere ve gövdeye ekleyin. 
+Daha fazla sayfa eklemek isterseniz, ek olarak bir xsl:when bloğu yaratmanız ve eklediğiniz sayfanın istek adresini (request-uri) eşlemeniz gerekir. 
+Şu halde, sadece page/ URI önekinin altında XSL düzenleme yoluyla oluşturulan sabit sayfalar kullanılabilir.</message>
 
 	<message key="xmlui.mirage2.navigation.rss.feed">besleme</message>
 
@@ -2499,7 +2737,8 @@
     <!-- org.dspace.app.xmlui.Submission.submit.StartSubmissionLookupStep -->
     <message key="xmlui.Submission.submit.StartSubmissionLookupStep.submit_lookup">Ara</message>
     <message key="xmlui.Submission.submit.StartSubmissionLookupStep.title">Yayın Arama</message>
-    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.lookup_help">Bir yayın kimliği (ID), DOI, Başlık veya Yazar girin ve ardından "Ara" tuşuna basın. Gönderi sürecine devam etmek için seçtiğiniz tüm yayınların listesi gösterilecektir.</message>
+    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.lookup_help">Bir yayın kimliği (ID), DOI, Başlık veya Yazar girin ve ardından 
+"Ara" tuşuna basın. Gönderi sürecine devam etmek için seçtiğiniz tüm yayınların listesi gösterilecektir.</message>
     <message key="xmlui.Submission.submit.StartSubmissionLookupStep.submit_publication_item">İçe Aktarılan Yayın Kaydı</message>
     <message key="xmlui.Submission.submit.progressbar.lookup">Arama Yap</message>
 
@@ -2633,9 +2872,12 @@
     <message key="xmlui.Discovery.RelatedItems.head">İlgili Öğeler</message>
     <message key="xmlui.Discovery.RelatedItems.help">Başlık, yazar, küratör ve konuya göre gösterilen ilgili öğeler.</message>
 
-    <message key="xmlui.Discovery.AbstractSearch.head1_community">{2}: Bölüm için toplam {1} sonuç üzerinden gösterilen {0} öğe. <span class="searchTime">({3} saniye)</span></message>
-   	<message key="xmlui.Discovery.AbstractSearch.head1_collection">{2}: Koleksiyon için toplam {1} sonuç üzerinden gösterilen {0} öğe. <span class="searchTime">({3} saniye)</span></message>
-   	<message key="xmlui.Discovery.AbstractSearch.head1_none">Toplam {1} sonuç üzerinden gösterilen {0} <span class="searchTime">({2} saniye)</span></message>
+    <message key="xmlui.Discovery.AbstractSearch.head1_community">{2}: Bölüm için toplam {1} sonuç üzerinden gösterilen {0} öğe. <span 
+class="searchTime">({3} saniye)</span></message>
+   	<message key="xmlui.Discovery.AbstractSearch.head1_collection">{2}: Koleksiyon için toplam {1} sonuç üzerinden gösterilen {0} öğe. <span 
+class="searchTime">({3} saniye)</span></message>
+   	<message key="xmlui.Discovery.AbstractSearch.head1_none">Toplam {1} sonuç üzerinden gösterilen {0} <span class="searchTime">({2} 
+saniye)</span></message>
 
 	<message key="xmlui.Discovery.AbstractSearch.head2">Aramanızla eşleşen bölüm veya koleksiyonlar</message>
 	<message key="xmlui.Discovery.AbstractSearch.head3">Aramanızla eşleşen öğeler</message>
@@ -2704,17 +2946,23 @@
 
     <message key="xmlui.XMLWorkflow.workflow.AcceptAction.head">Görevi gerçekleştir: Öğeyi Kabul Et/Reddet</message>
     <message key="xmlui.XMLWorkflow.workflow.AcceptAction.info1">Bu görevde gerçekleştirebileceğiniz işlemler:</message>
-    <message key="xmlui.XMLWorkflow.workflow.AcceptAction.reject_help">Öğeyi incelediyseniz ve koleksiyona dahil edilmek için <strong>uygun</strong> olmadığını düşünüyorsanız, <strong>Reddet</strong>i seçin. Daha sonra, öğenin neden uygun olmadığını belirten bir ileti yazın. Bu iletide gönderiyi reddetme gerekçenizi belirtin ve düzeltilerek yeniden gönderilmesini isteyin.</message>
+    <message key="xmlui.XMLWorkflow.workflow.AcceptAction.reject_help">Öğeyi incelediyseniz ve koleksiyona dahil edilmek için <strong>uygun</strong> 
+olmadığını düşünüyorsanız, <strong>Reddet</strong>i seçin. Daha sonra, öğenin neden uygun olmadığını belirten bir ileti yazın. Bu iletide gönderiyi 
+reddetme gerekçenizi belirtin ve düzeltilerek yeniden gönderilmesini isteyin.</message>
     <message key="xmlui.XMLWorkflow.workflow.AcceptAction.reject_submit">Öğeyi Reddet</message>
-    <message key="xmlui.XMLWorkflow.workflow.AcceptAction.approve_help">Eğer öğeyi incelesiyseniz ve koleksiyona dahil etmek için uygunsa "Onayla"yı seçin.</message>
+    <message key="xmlui.XMLWorkflow.workflow.AcceptAction.approve_help">Eğer öğeyi incelesiyseniz ve koleksiyona dahil etmek için uygunsa "Onayla"yı 
+seçin.</message>
     <message key="xmlui.XMLWorkflow.workflow.AcceptAction.approve_submit">Öğeyi Onayla</message>
 
 
     <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.head">Görevi gerçekleştir: Öğeyi Kabul Et/Reddet/Düzenle</message>
     <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.info1">Bu görev için gerçekleştirebileceğiniz işlemler:</message>
-    <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.reject_help">Öğeyi incelediyseniz ve koleksiyona dahil edilmek için <strong>uygun</strong> olmadığını düşünüyorsanız, <strong>Reddet</strong>i seçin. Daha sonra, öğenin neden uygun olmadığını belirten bir ileti yazın. Bu iletide gönderiyi reddetme gerekçenizi belirtin ve düzeltilerek yeniden gönderilmesini isteyin.</message>
+    <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.reject_help">Öğeyi incelediyseniz ve koleksiyona dahil edilmek için 
+<strong>uygun</strong> olmadığını düşünüyorsanız, <strong>Reddet</strong>i seçin. Daha sonra, öğenin neden uygun olmadığını belirten bir ileti 
+yazın. Bu iletide gönderiyi reddetme gerekçenizi belirtin ve düzeltilerek yeniden gönderilmesini isteyin.</message>
     <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.reject_submit">Öğeyi Reddet</message>
-    <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.approve_help">Eğer öğeyi incelesiyseniz ve koleksiyona dahil etmek için uygunsa "Onayla"yı seçin.</message>
+    <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.approve_help">Eğer öğeyi incelesiyseniz ve koleksiyona dahil etmek için uygunsa 
+"Onayla"yı seçin.</message>
     <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.approve_submit">Öğeyi Onayla</message>
     <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.edit_help">Öğenin üst verisini düzenlemek için bu seçeneğe tıklayın.</message>
     <message key="xmlui.XMLWorkflow.workflow.EditMetadataAction.edit_submit">Üst Veri Düzenle</message>
@@ -2722,12 +2970,14 @@
     <message key="xmlui.XMLWorkflow.step.unknown">Bilinmeyen adım</message>
 
     <message key="xmlui.XMLWorkflow.workflow.SelectReviewerAction.head">Görevi gerçekleştir: Hakem ata</message>
-    <message key="xmlui.XMLWorkflow.workflow.SelectReviewerAction.help">Hakem atamak için seçim yapmak üzere aşağıdaki arama kutusunu kullanın.</message>
+    <message key="xmlui.XMLWorkflow.workflow.SelectReviewerAction.help">Hakem atamak için seçim yapmak üzere aşağıdaki arama kutusunu 
+kullanın.</message>
     <message key="xmlui.XMLWorkflow.workflow.SelectReviewerAction.search.label">Hakem ara</message>
     <message key="xmlui.XMLWorkflow.workflow.SelectReviewerAction.search.button">e-Kişi seç</message>
     <message key="xmlui.XMLWorkflow.workflow.SelectReviewerAction.select-reviewer.button">Hakem olarak seç</message>
 
-    <message key="xmlui.XMLWorkflow.workflow.SingleUserReviewAction.decline.help">Bu öğeye hakemlik yapmak için doğru kişi değilseniz, "Görevi reddet" düğmesini seçerek isteği reddedebilirsiniz.</message>
+    <message key="xmlui.XMLWorkflow.workflow.SingleUserReviewAction.decline.help">Bu öğeye hakemlik yapmak için doğru kişi değilseniz, "Görevi 
+reddet" düğmesini seçerek isteği reddedebilirsiniz.</message>
     <message key="xmlui.XMLWorkflow.workflow.SingleUserReviewAction.decline.button">Görevi reddet</message>
 
 
@@ -2776,3 +3026,4 @@
     <message key="xmlui.XMLWorkflow.scoreReview.scoreReviewStep">Değerlendirmeyi puanla</message>
 
 </catalogue>
+
